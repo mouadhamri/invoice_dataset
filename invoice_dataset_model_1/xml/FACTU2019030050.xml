@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA03/2019/094311</invoice_number>
+  <po_number>BC06972</po_number>
+  <invoice_date>2019-03-17</invoice_date>
+  <invoice_date_due>2019-05-01</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>250 Executive Park Blvd, Suite 3400  San Francisco CA 94134 France</address>
+  <total_untaxed>226091.0</total_untaxed>
+  <tax_amount>26975.6</tax_amount>
+  <total_amount>26975.6</total_amount>
+  <lines>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>12.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>3444.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>56.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>6748.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>14070.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>58.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>17400.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>87.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>36540.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>81.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>48600.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>50.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>85000.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>11.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>14289.0</sub_total>
+    </line>
+  </lines>
+</document>

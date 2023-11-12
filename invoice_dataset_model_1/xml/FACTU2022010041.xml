@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA01/2022/028788</invoice_number>
+  <po_number>BC03860</po_number>
+  <invoice_date>2022-01-07</invoice_date>
+  <invoice_date_due>2022-03-08</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>43410.0</total_untaxed>
+  <tax_amount>6958.0</tax_amount>
+  <total_amount>6958.0</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir</description>
+      <quantity>72.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>7200.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>55.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4290.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>61.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>30500.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>71.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1420.0</sub_total>
+    </line>
+  </lines>
+</document>

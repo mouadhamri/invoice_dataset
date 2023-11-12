@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA03/2016/053735</invoice_number>
+  <po_number>BC09473</po_number>
+  <invoice_date>2016-03-28</invoice_date>
+  <invoice_date_due>2016-03-28</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>131782.0</total_untaxed>
+  <tax_amount>1432.4</tax_amount>
+  <total_amount>1432.4</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>12.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6000.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1162.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>62.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>124620.0</sub_total>
+    </line>
+  </lines>
+</document>

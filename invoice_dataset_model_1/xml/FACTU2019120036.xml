@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA12/2019/016942</invoice_number>
+  <po_number>BC06966</po_number>
+  <invoice_date>2019-12-27</invoice_date>
+  <invoice_date_due>2019-12-27</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>250 Executive Park Blvd, Suite 3400  San Francisco CA 94134 France</address>
+  <total_untaxed>57051.5</total_untaxed>
+  <tax_amount>9838.0</tax_amount>
+  <total_amount>9838.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>73.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>36500.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>61.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>10980.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>18.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7200.0</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>93.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>2371.5</sub_total>
+    </line>
+  </lines>
+</document>

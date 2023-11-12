@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA10/2021/040613</invoice_number>
+  <po_number>BC09353</po_number>
+  <invoice_date>2021-10-02</invoice_date>
+  <invoice_date_due>2021-10-17</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>14712.0</total_untaxed>
+  <tax_amount>2942.4</tax_amount>
+  <total_amount>2942.4</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>90.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>720.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>86.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12900.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>14.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1092.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA08/2020/027565</invoice_number>
+  <po_number>BC09212</po_number>
+  <invoice_date>2020-08-31</invoice_date>
+  <invoice_date_due>2020-09-15</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>465631.5</total_untaxed>
+  <tax_amount>92150.25</tax_amount>
+  <total_amount>92150.25</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>81.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>9760.5</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>9.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>11691.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>15.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>85.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>42500.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>10.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5000.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>66.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>26400.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>5.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12500.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>69.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>310500.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>84.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>35280.0</sub_total>
+    </line>
+  </lines>
+</document>

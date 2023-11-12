@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA02/2019/020632</invoice_number>
+  <po_number>BC06232</po_number>
+  <invoice_date>2019-02-26</invoice_date>
+  <invoice_date_due>2019-04-27</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>250 Executive Park Blvd, Suite 3400  San Francisco CA 94134 France</address>
+  <total_untaxed>48220.0</total_untaxed>
+  <tax_amount>8720.0</tax_amount>
+  <total_amount>8720.0</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1020.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>24.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>7200.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>8.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4000.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>90.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>36000.0</sub_total>
+    </line>
+  </lines>
+</document>

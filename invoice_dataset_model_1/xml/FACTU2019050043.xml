@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA05/2019/014565</invoice_number>
+  <po_number>BC02065</po_number>
+  <invoice_date>2019-05-18</invoice_date>
+  <invoice_date_due>2019-05-18</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>85668.0</total_untaxed>
+  <tax_amount>17082.6</tax_amount>
+  <total_amount>17082.6</total_amount>
+  <lines>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>32.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>80000.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>31.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1705.0</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>10.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>255.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>61.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>488.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>92.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3220.0</sub_total>
+    </line>
+  </lines>
+</document>

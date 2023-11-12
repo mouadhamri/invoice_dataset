@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA05/2018/089636</invoice_number>
+  <po_number>BC01183</po_number>
+  <invoice_date>2018-05-15</invoice_date>
+  <invoice_date_due>2018-06-14</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>96460.0</total_untaxed>
+  <tax_amount>18183.4</tax_amount>
+  <total_amount>18183.4</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>69.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>41400.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>92.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>11086.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>99.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>14850.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>27300.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>69.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>690.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>81.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1134.0</sub_total>
+    </line>
+  </lines>
+</document>
