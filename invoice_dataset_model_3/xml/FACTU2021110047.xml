@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA11/2021/053327</invoice_number>
+  <po_number>BC02017</po_number>
+  <invoice_date>2021-11-05</invoice_date>
+  <invoice_date_due>2021-12-20</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>210104.0</total_untaxed>
+  <tax_amount>40820.8</tax_amount>
+  <total_amount>40820.8</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>62.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>31000.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>73.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>29200.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>88.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>13200.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>96.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>124704.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>40.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>12000.0</sub_total>
+    </line>
+  </lines>
+</document>

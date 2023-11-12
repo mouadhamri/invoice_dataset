@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA11/2018/019835</invoice_number>
+  <po_number>BC04891</po_number>
+  <invoice_date>2018-11-26</invoice_date>
+  <invoice_date_due>2019-01-10</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>59550.0</total_untaxed>
+  <tax_amount>8458.5</tax_amount>
+  <total_amount>8458.5</total_amount>
+  <lines>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>11.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2090.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>37.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>3700.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>22.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>11000.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>11.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>18700.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>12.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>936.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>29.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12180.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7794.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>21.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3150.0</sub_total>
+    </line>
+  </lines>
+</document>

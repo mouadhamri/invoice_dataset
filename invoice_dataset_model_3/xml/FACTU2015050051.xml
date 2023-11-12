@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA05/2015/065555</invoice_number>
+  <po_number>BC06930</po_number>
+  <invoice_date>2015-05-05</invoice_date>
+  <invoice_date_due>2015-07-04</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>214091.0</total_untaxed>
+  <tax_amount>41858.2</tax_amount>
+  <total_amount>41858.2</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>68.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>544.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>54.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>27000.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1162.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>55.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>550.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>4800.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>97000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>64000.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>94.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3290.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>67.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>15745.0</sub_total>
+    </line>
+  </lines>
+</document>

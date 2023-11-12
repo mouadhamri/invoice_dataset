@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA03/2016/012703</invoice_number>
+  <po_number>BC05432</po_number>
+  <invoice_date>2016-03-14</invoice_date>
+  <invoice_date_due>2016-03-29</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>348165.0</total_untaxed>
+  <tax_amount>68415.0</tax_amount>
+  <total_amount>68415.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>5.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>275.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>20.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>3600.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>600.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>75.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>187500.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>61.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>61000.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>27.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>4860.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>98.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>49000.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>14.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>2520.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>59.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>590.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>91.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>38220.0</sub_total>
+    </line>
+  </lines>
+</document>

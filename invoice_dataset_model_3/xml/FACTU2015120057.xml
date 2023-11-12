@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA12/2015/039669</invoice_number>
+  <po_number>BC07887</po_number>
+  <invoice_date>2015-12-24</invoice_date>
+  <invoice_date_due>2016-03-23</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>106030.0</total_untaxed>
+  <tax_amount>8802.0</tax_amount>
+  <total_amount>8802.0</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>61200.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>71.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>21300.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>70.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>7000.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>87.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>16530.0</sub_total>
+    </line>
+  </lines>
+</document>

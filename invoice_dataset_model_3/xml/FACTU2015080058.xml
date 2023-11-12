@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA08/2015/027712</invoice_number>
+  <po_number>BC04279</po_number>
+  <invoice_date>2015-08-26</invoice_date>
+  <invoice_date_due>2015-10-25</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>62479.0</total_untaxed>
+  <tax_amount>7542.02</tax_amount>
+  <total_amount>7542.02</total_amount>
+  <lines>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>910.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>20.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5600.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>95.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>760.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>47.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>11045.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>39.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>34164.0</sub_total>
+    </line>
+  </lines>
+</document>

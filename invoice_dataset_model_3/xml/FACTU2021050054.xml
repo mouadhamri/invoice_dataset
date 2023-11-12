@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA05/2021/099094</invoice_number>
+  <po_number>BC09733</po_number>
+  <invoice_date>2021-05-27</invoice_date>
+  <invoice_date_due>2021-06-11</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>134286.0</total_untaxed>
+  <tax_amount>24487.2</tax_amount>
+  <total_amount>24487.2</total_amount>
+  <lines>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>41.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>102500.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>89.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1246.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>15.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>4500.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>36.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6840.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>64.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>19200.0</sub_total>
+    </line>
+  </lines>
+</document>

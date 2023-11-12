@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA11/2018/060757</invoice_number>
+  <po_number>BC03699</po_number>
+  <invoice_date>2018-11-18</invoice_date>
+  <invoice_date_due>2019-02-16</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>347676.0</total_untaxed>
+  <tax_amount>69433.2</tax_amount>
+  <total_amount>69433.2</total_amount>
+  <lines>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>20.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>510.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>67.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>938.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>80000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>59.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>265500.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>52.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>728.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA08/2015/029145</invoice_number>
+  <po_number>BC07467</po_number>
+  <invoice_date>2015-08-26</invoice_date>
+  <invoice_date_due>2015-11-24</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>136360.0</total_untaxed>
+  <tax_amount>27272.0</tax_amount>
+  <total_amount>27272.0</total_amount>
+  <lines>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>63.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>26460.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>78.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>62400.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>95.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>47500.0</sub_total>
+    </line>
+  </lines>
+</document>

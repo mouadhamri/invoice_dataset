@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA01/2021/083950</invoice_number>
+  <po_number>BC01297</po_number>
+  <invoice_date>2021-01-11</invoice_date>
+  <invoice_date_due>2021-02-10</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>250 Executive Park Blvd, Suite 3400  San Francisco CA 94134 France</address>
+  <total_untaxed>289742.0</total_untaxed>
+  <tax_amount>56556.4</tax_amount>
+  <total_amount>56556.4</total_amount>
+  <lines>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>67.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>167500.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>96.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>9600.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>111714.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>408.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>520.0</sub_total>
+    </line>
+  </lines>
+</document>

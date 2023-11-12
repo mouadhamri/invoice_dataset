@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA01/2017/058503</invoice_number>
+  <po_number>BC06068</po_number>
+  <invoice_date>2017-01-02</invoice_date>
+  <invoice_date_due>2017-04-02</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>161392.0</total_untaxed>
+  <tax_amount>32278.4</tax_amount>
+  <total_amount>32278.4</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>64.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>32000.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>70.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10500.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>9.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1350.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>14.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1092.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>48500.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>13.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1950.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>52.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>26000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>40000.0</sub_total>
+    </line>
+  </lines>
+</document>

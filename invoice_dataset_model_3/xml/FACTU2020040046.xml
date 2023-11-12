@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA04/2020/068609</invoice_number>
+  <po_number>BC05628</po_number>
+  <invoice_date>2020-04-29</invoice_date>
+  <invoice_date_due>2020-05-14</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>260108.0</total_untaxed>
+  <tax_amount>16384.5</tax_amount>
+  <total_amount>16384.5</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>41.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>20500.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>54.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>108540.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>50.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3900.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>4.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2000.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>21.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>6027.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>81600.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>61.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>24400.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>8917.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4200.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>3.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>24.0</sub_total>
+    </line>
+  </lines>
+</document>

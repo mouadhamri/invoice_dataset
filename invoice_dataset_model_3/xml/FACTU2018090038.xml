@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA09/2018/038039</invoice_number>
+  <po_number>BC01027</po_number>
+  <invoice_date>2018-09-19</invoice_date>
+  <invoice_date_due>2018-11-03</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>5616.0</total_untaxed>
+  <tax_amount>1123.2</tax_amount>
+  <total_amount>1123.2</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>72.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5616.0</sub_total>
+    </line>
+  </lines>
+</document>

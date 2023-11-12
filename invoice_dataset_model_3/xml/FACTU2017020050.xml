@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA02/2017/038641</invoice_number>
+  <po_number>BC01281</po_number>
+  <invoice_date>2017-02-02</invoice_date>
+  <invoice_date_due>2017-02-17</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>15286.0</total_untaxed>
+  <tax_amount>1480.63</tax_amount>
+  <total_amount>1480.63</total_amount>
+  <lines>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>52.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1066.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>79.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>14220.0</sub_total>
+    </line>
+  </lines>
+</document>

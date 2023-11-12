@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA08/2017/095512</invoice_number>
+  <po_number>BC02125</po_number>
+  <invoice_date>2017-08-16</invoice_date>
+  <invoice_date_due>2017-11-14</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>52300.0</total_untaxed>
+  <tax_amount>10460.0</tax_amount>
+  <total_amount>10460.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>17500.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>58.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>34800.0</sub_total>
+    </line>
+  </lines>
+</document>
