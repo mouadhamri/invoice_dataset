@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>INV/02/2021/003559</invoice_number>
+  <po_number>PO027686</po_number>
+  <invoice_date>02/11/2021</invoice_date>
+  <invoice_date_due>03/28/2021</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>38950.0</total_untaxed>
+  <tax_amount>2860.0</tax_amount>
+  <total_amount>2860.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>33.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4950.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>20.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>34000.0</sub_total>
+    </line>
+  </lines>
+</document>

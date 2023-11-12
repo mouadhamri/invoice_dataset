@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>INV/04/2015/005234</invoice_number>
+  <po_number>PO015690</po_number>
+  <invoice_date>04/07/2015</invoice_date>
+  <invoice_date_due>06/06/2015</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>176988.0</total_untaxed>
+  <tax_amount>13926.1</tax_amount>
+  <total_amount>13926.1</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>17.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8500.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>46.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>368.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>71.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>120700.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>16740.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>40.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>11480.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>48.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>19200.0</sub_total>
+    </line>
+  </lines>
+</document>

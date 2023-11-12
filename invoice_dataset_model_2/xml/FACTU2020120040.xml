@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>INV/12/2020/017301</invoice_number>
+  <po_number>PO065571</po_number>
+  <invoice_date>12/23/2020</invoice_date>
+  <invoice_date_due>02/21/2021</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>93908.0</total_untaxed>
+  <tax_amount>18781.6</tax_amount>
+  <total_amount>18781.6</total_amount>
+  <lines>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>77.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>77000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2808.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>94.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>14100.0</sub_total>
+    </line>
+  </lines>
+</document>

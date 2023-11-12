@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>INV/12/2016/045434</invoice_number>
+  <po_number>PO071019</po_number>
+  <invoice_date>12/08/2016</invoice_date>
+  <invoice_date_due>03/08/2017</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>250 Executive Park Blvd, Suite 3400  San Francisco CA 94134 France</address>
+  <total_untaxed>881.5</total_untaxed>
+  <tax_amount>48.48</tax_amount>
+  <total_amount>48.48</total_amount>
+  <lines>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>43.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>881.5</sub_total>
+    </line>
+  </lines>
+</document>

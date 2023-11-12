@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>INV/08/2017/070929</invoice_number>
+  <po_number>PO041475</po_number>
+  <invoice_date>08/11/2017</invoice_date>
+  <invoice_date_due>09/25/2017</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>149597.0</total_untaxed>
+  <tax_amount>29919.4</tax_amount>
+  <total_amount>29919.4</total_amount>
+  <lines>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>26.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>20800.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>34.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7990.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>120807.0</sub_total>
+    </line>
+  </lines>
+</document>

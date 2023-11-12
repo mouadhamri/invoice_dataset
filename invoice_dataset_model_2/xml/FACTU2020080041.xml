@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>INV/08/2020/058447</invoice_number>
+  <po_number>PO023304</po_number>
+  <invoice_date>08/09/2020</invoice_date>
+  <invoice_date_due>09/08/2020</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>250 Executive Park Blvd, Suite 3400  San Francisco CA 94134 France</address>
+  <total_untaxed>43000.0</total_untaxed>
+  <tax_amount>8600.0</tax_amount>
+  <total_amount>8600.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>43000.0</sub_total>
+    </line>
+  </lines>
+</document>

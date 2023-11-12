@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>INV/11/2016/000257</invoice_number>
+  <po_number>PO008345</po_number>
+  <invoice_date>11/08/2016</invoice_date>
+  <invoice_date_due>02/06/2017</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>25929.0</total_untaxed>
+  <tax_amount>3085.8</tax_amount>
+  <total_amount>3085.8</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>58.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>464.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>19.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4465.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>70.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>21000.0</sub_total>
+    </line>
+  </lines>
+</document>

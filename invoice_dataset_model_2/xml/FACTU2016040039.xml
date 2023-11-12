@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>INV/04/2016/089369</invoice_number>
+  <po_number>PO056518</po_number>
+  <invoice_date>04/09/2016</invoice_date>
+  <invoice_date_due>04/09/2016</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>210530.5</total_untaxed>
+  <tax_amount>19939.13</tax_amount>
+  <total_amount>19939.13</total_amount>
+  <lines>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>5.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>175.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>60.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>6000.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>44.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>13200.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>1.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>20.5</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>8.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3200.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>96480.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>92.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>13800.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>53.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2915.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>73.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>73000.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>87.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1740.0</sub_total>
+    </line>
+  </lines>
+</document>

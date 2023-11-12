@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>INV/08/2015/098598</invoice_number>
+  <po_number>PO040311</po_number>
+  <invoice_date>08/14/2015</invoice_date>
+  <invoice_date_due>08/29/2015</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>77846.0</total_untaxed>
+  <tax_amount>1097.2</tax_amount>
+  <total_amount>1097.2</total_amount>
+  <lines>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>46.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>644.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>72360.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4800.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>3.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>42.0</sub_total>
+    </line>
+  </lines>
+</document>

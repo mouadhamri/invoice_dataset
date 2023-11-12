@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>INV/04/2019/026436</invoice_number>
+  <po_number>PO097899</po_number>
+  <invoice_date>04/17/2019</invoice_date>
+  <invoice_date_due>07/16/2019</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>10100.0</total_untaxed>
+  <tax_amount>555.5</tax_amount>
+  <total_amount>555.5</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>90.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>9000.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>11.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1100.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>INV/04/2018/026604</invoice_number>
+  <po_number>PO077040</po_number>
+  <invoice_date>04/29/2018</invoice_date>
+  <invoice_date_due>05/14/2018</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>81674.0</total_untaxed>
+  <tax_amount>16334.8</tax_amount>
+  <total_amount>16334.8</total_amount>
+  <lines>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>47.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8930.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>56.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>72744.0</sub_total>
+    </line>
+  </lines>
+</document>

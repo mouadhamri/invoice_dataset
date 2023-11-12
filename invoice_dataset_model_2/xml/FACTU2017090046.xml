@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>INV/09/2017/075780</invoice_number>
+  <po_number>PO078213</po_number>
+  <invoice_date>09/20/2017</invoice_date>
+  <invoice_date_due>10/05/2017</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>2183.5</total_untaxed>
+  <tax_amount>44.0</tax_amount>
+  <total_amount>44.0</total_amount>
+  <lines>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>77.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>1963.5</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>4.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>220.0</sub_total>
+    </line>
+  </lines>
+</document>

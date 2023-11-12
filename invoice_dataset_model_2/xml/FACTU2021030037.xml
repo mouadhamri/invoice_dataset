@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>INV/03/2021/038212</invoice_number>
+  <po_number>PO075647</po_number>
+  <invoice_date>03/19/2021</invoice_date>
+  <invoice_date_due>06/17/2021</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>2090.0</total_untaxed>
+  <tax_amount>418.0</tax_amount>
+  <total_amount>418.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>38.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2090.0</sub_total>
+    </line>
+  </lines>
+</document>

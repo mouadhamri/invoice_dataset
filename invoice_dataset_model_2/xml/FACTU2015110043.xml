@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>INV/11/2015/023744</invoice_number>
+  <po_number>PO016242</po_number>
+  <invoice_date>11/27/2015</invoice_date>
+  <invoice_date_due>01/11/2016</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>442191.0</total_untaxed>
+  <tax_amount>86998.2</tax_amount>
+  <total_amount>86998.2</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>2.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>16.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>72.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>7200.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>64.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>64000.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>45.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2475.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>10.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>81.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>364500.0</sub_total>
+    </line>
+  </lines>
+</document>

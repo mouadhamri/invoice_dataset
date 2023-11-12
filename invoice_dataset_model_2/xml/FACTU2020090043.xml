@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>INV/09/2020/086733</invoice_number>
+  <po_number>PO079508</po_number>
+  <invoice_date>09/07/2020</invoice_date>
+  <invoice_date_due>10/07/2020</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>1104.0</total_untaxed>
+  <tax_amount>220.8</tax_amount>
+  <total_amount>220.8</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>408.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>87.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>696.0</sub_total>
+    </line>
+  </lines>
+</document>

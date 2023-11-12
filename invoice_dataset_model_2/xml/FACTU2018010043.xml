@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>INV/01/2018/090574</invoice_number>
+  <po_number>PO050732</po_number>
+  <invoice_date>01/04/2018</invoice_date>
+  <invoice_date_due>03/05/2018</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>22822.0</total_untaxed>
+  <tax_amount>4564.4</tax_amount>
+  <total_amount>4564.4</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>45.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>22500.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>23.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>322.0</sub_total>
+    </line>
+  </lines>
+</document>

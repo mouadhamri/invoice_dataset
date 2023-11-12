@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>INV/04/2018/099988</invoice_number>
+  <po_number>PO051741</po_number>
+  <invoice_date>04/08/2018</invoice_date>
+  <invoice_date_due>06/07/2018</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>7400.0</total_untaxed>
+  <tax_amount>407.0</tax_amount>
+  <total_amount>407.0</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>7400.0</sub_total>
+    </line>
+  </lines>
+</document>

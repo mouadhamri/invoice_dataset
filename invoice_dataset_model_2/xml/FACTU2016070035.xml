@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>INV/07/2016/034841</invoice_number>
+  <po_number>PO037639</po_number>
+  <invoice_date>07/22/2016</invoice_date>
+  <invoice_date_due>08/21/2016</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>2496.0</total_untaxed>
+  <tax_amount>499.2</tax_amount>
+  <total_amount>499.2</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>32.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2496.0</sub_total>
+    </line>
+  </lines>
+</document>

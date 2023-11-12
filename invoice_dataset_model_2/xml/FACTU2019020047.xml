@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>INV/02/2019/042380</invoice_number>
+  <po_number>PO073216</po_number>
+  <invoice_date>02/28/2019</invoice_date>
+  <invoice_date_due>03/30/2019</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>180705.0</total_untaxed>
+  <tax_amount>36141.0</tax_amount>
+  <total_amount>36141.0</total_amount>
+  <lines>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>63.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2205.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>29.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>130500.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>48000.0</sub_total>
+    </line>
+  </lines>
+</document>
