@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA08/2015/095732</invoice_number>
+  <po_number>BC09478</po_number>
+  <invoice_date>2015-08-12</invoice_date>
+  <invoice_date_due>2015-08-27</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>139982.0</total_untaxed>
+  <tax_amount>9720.35</tax_amount>
+  <total_amount>9720.35</total_amount>
+  <lines>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>26.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>663.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>110500.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18000.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>38.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>779.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>8300.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>87.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1740.0</sub_total>
+    </line>
+  </lines>
+</document>

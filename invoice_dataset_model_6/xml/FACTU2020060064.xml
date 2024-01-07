@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA06/2020/049391</invoice_number>
+  <po_number>BC08126</po_number>
+  <invoice_date>20200627</invoice_date>
+  <invoice_date_due>20200727</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>63948.0</total_untaxed>
+  <tax_amount>3517.14</tax_amount>
+  <total_amount>3517.14</total_amount>
+  <lines>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>73.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>63948.0</sub_total>
+    </line>
+  </lines>
+</document>

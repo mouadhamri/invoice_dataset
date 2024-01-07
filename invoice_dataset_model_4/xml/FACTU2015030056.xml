@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA03/2015/059520</invoice_number>
+  <po_number>BC05403</po_number>
+  <invoice_date>20150329</invoice_date>
+  <invoice_date_due>20150627</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>24902.0</total_untaxed>
+  <tax_amount>2692.55</tax_amount>
+  <total_amount>2692.55</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>89.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>13350.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>20.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>410.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>90.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>9000.0</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>84.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>2142.0</sub_total>
+    </line>
+  </lines>
+</document>

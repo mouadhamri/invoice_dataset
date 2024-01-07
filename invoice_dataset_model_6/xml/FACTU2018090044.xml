@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA09/2018/095679</invoice_number>
+  <po_number>BC04552</po_number>
+  <invoice_date>20180920</invoice_date>
+  <invoice_date_due>20181119</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>23460.0</total_untaxed>
+  <tax_amount>4692.0</tax_amount>
+  <total_amount>4692.0</total_amount>
+  <lines>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8460.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>15.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>15000.0</sub_total>
+    </line>
+  </lines>
+</document>

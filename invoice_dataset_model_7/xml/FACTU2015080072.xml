@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA08/2015/024330</invoice_number>
+  <po_number>BC09218</po_number>
+  <invoice_date>20150801</invoice_date>
+  <invoice_date_due>20151030</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>47707.0</total_untaxed>
+  <tax_amount>3423.5</tax_amount>
+  <total_amount>3423.5</total_amount>
+  <lines>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>75.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>750.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>25.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>2500.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>71.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>20377.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>95.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>950.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>22.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3300.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>56.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>16800.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>20.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1560.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>2.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1000.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>47.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>470.0</sub_total>
+    </line>
+  </lines>
+</document>

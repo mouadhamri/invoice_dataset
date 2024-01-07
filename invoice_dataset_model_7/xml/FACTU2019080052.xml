@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA08/2019/078176</invoice_number>
+  <po_number>BC07961</po_number>
+  <invoice_date>20190810</invoice_date>
+  <invoice_date_due>20190810</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>85900.0</total_untaxed>
+  <tax_amount>6510.32</tax_amount>
+  <total_amount>6510.32</total_amount>
+  <lines>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>84.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>73584.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>69.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5382.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6500.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>31.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>434.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA03/2020/005821</invoice_number>
+  <po_number>BC00745</po_number>
+  <invoice_date>2020-03-10</invoice_date>
+  <invoice_date_due>2020-03-10</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>50888.0</total_untaxed>
+  <tax_amount>8800.0</tax_amount>
+  <total_amount>8800.0</total_amount>
+  <lines>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>24.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>6888.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>88.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>44000.0</sub_total>
+    </line>
+  </lines>
+</document>

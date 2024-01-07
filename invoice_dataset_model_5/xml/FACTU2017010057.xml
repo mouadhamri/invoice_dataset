@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA01/2017/096921</invoice_number>
+  <po_number>BC05131</po_number>
+  <invoice_date>20170120</invoice_date>
+  <invoice_date_due>20170120</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>114000.0</total_untaxed>
+  <tax_amount>22800.0</tax_amount>
+  <total_amount>22800.0</total_amount>
+  <lines>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>84.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>84000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>60.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>30000.0</sub_total>
+    </line>
+  </lines>
+</document>

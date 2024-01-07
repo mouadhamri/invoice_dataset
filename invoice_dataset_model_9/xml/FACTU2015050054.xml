@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA05/2015/054071</invoice_number>
+  <po_number>BC08471</po_number>
+  <invoice_date>20150507</invoice_date>
+  <invoice_date_due>20150621</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>505105.0</total_untaxed>
+  <tax_amount>61093.4</tax_amount>
+  <total_amount>61093.4</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>95.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>161500.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>30.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>26280.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>52.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>41600.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>510.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>57.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>142500.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>43.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>73100.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>1.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>190.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>25500.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>55.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12925.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>70.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>21000.0</sub_total>
+    </line>
+  </lines>
+</document>

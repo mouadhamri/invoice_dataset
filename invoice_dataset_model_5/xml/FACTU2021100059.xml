@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA10/2021/064516</invoice_number>
+  <po_number>BC06390</po_number>
+  <invoice_date>20211031</invoice_date>
+  <invoice_date_due>20211115</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>5700.0</total_untaxed>
+  <tax_amount>0.0</tax_amount>
+  <total_amount>0.0</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir</description>
+      <quantity>57.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>5700.0</sub_total>
+    </line>
+  </lines>
+</document>

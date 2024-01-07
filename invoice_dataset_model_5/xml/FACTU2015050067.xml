@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA05/2015/076862</invoice_number>
+  <po_number>BC09423</po_number>
+  <invoice_date>20150509</invoice_date>
+  <invoice_date_due>20150608</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>47255.0</total_untaxed>
+  <tax_amount>3652.0</tax_amount>
+  <total_amount>3652.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>87.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7395.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>12.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>240.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>82.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1640.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>22.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>37400.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>58.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>580.0</sub_total>
+    </line>
+  </lines>
+</document>

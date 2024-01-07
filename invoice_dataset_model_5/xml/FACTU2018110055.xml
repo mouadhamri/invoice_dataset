@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA11/2018/069117</invoice_number>
+  <po_number>BC00915</po_number>
+  <invoice_date>20181123</invoice_date>
+  <invoice_date_due>20181208</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>12150.0</total_untaxed>
+  <tax_amount>2430.0</tax_amount>
+  <total_amount>2430.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>60.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5100.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>30.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7050.0</sub_total>
+    </line>
+  </lines>
+</document>

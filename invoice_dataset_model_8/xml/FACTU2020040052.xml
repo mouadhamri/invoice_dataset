@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA04/2020/090019</invoice_number>
+  <po_number>BC05160</po_number>
+  <invoice_date>20200430</invoice_date>
+  <invoice_date_due>20200515</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>6321.0</total_untaxed>
+  <tax_amount>124.0</tax_amount>
+  <total_amount>124.0</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir</description>
+      <quantity>31.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>3100.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>62.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>620.0</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>23.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>586.5</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>79.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>2014.5</sub_total>
+    </line>
+  </lines>
+</document>

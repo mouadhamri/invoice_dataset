@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA03/2018/035753</invoice_number>
+  <po_number>BC04286</po_number>
+  <invoice_date>20180314</invoice_date>
+  <invoice_date_due>20180513</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>286430.0</total_untaxed>
+  <tax_amount>57286.0</tax_amount>
+  <total_amount>57286.0</total_amount>
+  <lines>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>70.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>56000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>73.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>182500.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>20210.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>66.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>27720.0</sub_total>
+    </line>
+  </lines>
+</document>

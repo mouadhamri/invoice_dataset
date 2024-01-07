@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA03/2016/078825</invoice_number>
+  <po_number>BC09397</po_number>
+  <invoice_date>20160326</invoice_date>
+  <invoice_date_due>20160425</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>463943.5</total_untaxed>
+  <tax_amount>92298.35</tax_amount>
+  <total_amount>92298.35</total_amount>
+  <lines>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>63.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>283500.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>140.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>96.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>48000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>21.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>94500.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>42.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>21000.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>21.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>3780.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>843.5</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>29.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12180.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA07/2018/040849</invoice_number>
+  <po_number>BC03095</po_number>
+  <invoice_date>20180716</invoice_date>
+  <invoice_date_due>20180716</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>532547.0</total_untaxed>
+  <tax_amount>91126.5</tax_amount>
+  <total_amount>91126.5</total_amount>
+  <lines>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>81.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>23247.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>32.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6080.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>79.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>7900.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>39.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>39000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>87.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>391500.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>7.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>595.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>19.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>38190.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>73.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6205.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>19500.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>330.0</sub_total>
+    </line>
+  </lines>
+</document>

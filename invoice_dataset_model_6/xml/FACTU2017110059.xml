@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA11/2017/054281</invoice_number>
+  <po_number>BC03181</po_number>
+  <invoice_date>20171114</invoice_date>
+  <invoice_date_due>20171229</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>148200.0</total_untaxed>
+  <tax_amount>29640.0</tax_amount>
+  <total_amount>29640.0</total_amount>
+  <lines>
+    <line>
+      <description>Hôtel</description>
+      <quantity>10.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>64.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>51200.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>93000.0</sub_total>
+    </line>
+  </lines>
+</document>

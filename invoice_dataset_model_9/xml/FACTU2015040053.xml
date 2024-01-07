@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA04/2015/086149</invoice_number>
+  <po_number>BC01548</po_number>
+  <invoice_date>20150407</invoice_date>
+  <invoice_date_due>20150706</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>119720.0</total_untaxed>
+  <tax_amount>22864.5</tax_amount>
+  <total_amount>22864.5</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>5100.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>45.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>112500.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>42.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>420.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>17.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>1700.0</sub_total>
+    </line>
+  </lines>
+</document>

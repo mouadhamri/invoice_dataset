@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA10/2016/000090</invoice_number>
+  <po_number>BC03485</po_number>
+  <invoice_date>20161026</invoice_date>
+  <invoice_date_due>20161110</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>166653.0</total_untaxed>
+  <tax_amount>32995.7</tax_amount>
+  <total_amount>32995.7</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>52.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>416.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>41500.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>49.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4165.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>20.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>50000.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>40.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>820.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>18.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18000.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>12.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>2160.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>18.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>9000.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>592.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>100.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>40000.0</sub_total>
+    </line>
+  </lines>
+</document>

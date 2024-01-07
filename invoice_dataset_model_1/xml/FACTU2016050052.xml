@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA05/2016/033986</invoice_number>
+  <po_number>BC02101</po_number>
+  <invoice_date>2016-05-06</invoice_date>
+  <invoice_date_due>2016-05-21</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>46580.0</total_untaxed>
+  <tax_amount>6340.0</tax_amount>
+  <total_amount>6340.0</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>99.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1980.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>25800.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>47.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18800.0</sub_total>
+    </line>
+  </lines>
+</document>

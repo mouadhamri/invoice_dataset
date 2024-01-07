@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA07/2020/057984</invoice_number>
+  <po_number>BC01191</po_number>
+  <invoice_date>20200707</invoice_date>
+  <invoice_date_due>20200722</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>14070.0</total_untaxed>
+  <tax_amount>0.0</tax_amount>
+  <total_amount>0.0</total_amount>
+  <lines>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>14070.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA04/2018/014809</invoice_number>
+  <po_number>BC04728</po_number>
+  <invoice_date>20180426</invoice_date>
+  <invoice_date_due>20180426</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>29274.0</total_untaxed>
+  <tax_amount>1891.0</tax_amount>
+  <total_amount>1891.0</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>15.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>120.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>28.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>224.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>50.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>6025.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>5.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>8500.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>55.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>5500.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>1.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1000.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>87.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>696.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>52.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>5200.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>98.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>2009.0</sub_total>
+    </line>
+  </lines>
+</document>

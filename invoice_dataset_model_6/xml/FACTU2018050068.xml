@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA05/2018/055584</invoice_number>
+  <po_number>BC00224</po_number>
+  <invoice_date>20180529</invoice_date>
+  <invoice_date_due>20180728</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>10650.0</total_untaxed>
+  <tax_amount>2130.0</tax_amount>
+  <total_amount>2130.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>71.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10650.0</sub_total>
+    </line>
+  </lines>
+</document>

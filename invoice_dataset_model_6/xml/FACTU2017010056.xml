@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA01/2017/092058</invoice_number>
+  <po_number>BC05453</po_number>
+  <invoice_date>20170128</invoice_date>
+  <invoice_date_due>20170227</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>15340.0</total_untaxed>
+  <tax_amount>3068.0</tax_amount>
+  <total_amount>3068.0</total_amount>
+  <lines>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>64.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>640.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>35.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>14700.0</sub_total>
+    </line>
+  </lines>
+</document>

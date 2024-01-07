@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA11/2018/091552</invoice_number>
+  <po_number>BC00343</po_number>
+  <invoice_date>20181106</invoice_date>
+  <invoice_date_due>20190204</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>164705.0</total_untaxed>
+  <tax_amount>9277.0</tax_amount>
+  <total_amount>9277.0</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>96.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>163200.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>50.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>400.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>13.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1105.0</sub_total>
+    </line>
+  </lines>
+</document>

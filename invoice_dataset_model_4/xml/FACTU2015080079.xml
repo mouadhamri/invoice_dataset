@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA08/2015/059822</invoice_number>
+  <po_number>BC02798</po_number>
+  <invoice_date>20150814</invoice_date>
+  <invoice_date_due>20150814</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>20112.0</total_untaxed>
+  <tax_amount>2704.2</tax_amount>
+  <total_amount>2704.2</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>84.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>10122.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8460.0</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>60.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>1530.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA07/2018/091673</invoice_number>
+  <po_number>BC05019</po_number>
+  <invoice_date>20180709</invoice_date>
+  <invoice_date_due>20180724</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>14980.0</total_untaxed>
+  <tax_amount>2709.0</tax_amount>
+  <total_amount>2709.0</total_amount>
+  <lines>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6000.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>17.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>935.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3000.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>5.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>1435.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>19.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3610.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA08/2016/092724</invoice_number>
+  <po_number>BC01894</po_number>
+  <invoice_date>20160803</invoice_date>
+  <invoice_date_due>20161002</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>297374.0</total_untaxed>
+  <tax_amount>14656.42</tax_amount>
+  <total_amount>14656.42</total_amount>
+  <lines>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>36120.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>25.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12500.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>72.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2520.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>89.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>178890.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>5.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1175.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>69.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1380.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>69.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>60444.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>79.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4345.0</sub_total>
+    </line>
+  </lines>
+</document>

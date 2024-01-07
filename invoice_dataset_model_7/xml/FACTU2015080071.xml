@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA08/2015/067873</invoice_number>
+  <po_number>BC06767</po_number>
+  <invoice_date>20150806</invoice_date>
+  <invoice_date_due>20151005</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>363346.0</total_untaxed>
+  <tax_amount>58990.0</tax_amount>
+  <total_amount>58990.0</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>6500.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>37.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>62900.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>59.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>265500.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>67.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10050.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>9.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>315.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>63.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>18081.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA01/2021/010215</invoice_number>
+  <po_number>BC03966</po_number>
+  <invoice_date>20210119</invoice_date>
+  <invoice_date_due>20210203</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>360329.5</total_untaxed>
+  <tax_amount>71668.25</tax_amount>
+  <total_amount>71668.25</total_amount>
+  <lines>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>26.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>26000.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>78.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>32760.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>126003.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>33.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>3976.5</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>94.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3290.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>56.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>28000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>48500.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>81.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>81000.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>27.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10800.0</sub_total>
+    </line>
+  </lines>
+</document>

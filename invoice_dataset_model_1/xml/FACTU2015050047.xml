@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA05/2015/070999</invoice_number>
+  <po_number>BC01933</po_number>
+  <invoice_date>2015-05-23</invoice_date>
+  <invoice_date_due>2015-07-07</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>181080.0</total_untaxed>
+  <tax_amount>35776.0</tax_amount>
+  <total_amount>35776.0</total_amount>
+  <lines>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>66.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>52800.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>54.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8100.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18800.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>57.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>798.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>22.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>2200.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>69.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5382.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>33.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>16500.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>48000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>57.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>28500.0</sub_total>
+    </line>
+  </lines>
+</document>

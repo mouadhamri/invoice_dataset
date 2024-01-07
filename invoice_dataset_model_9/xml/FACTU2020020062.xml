@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA02/2020/042302</invoice_number>
+  <po_number>BC02535</po_number>
+  <invoice_date>20200213</invoice_date>
+  <invoice_date_due>20200228</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>93095.5</total_untaxed>
+  <tax_amount>16791.16</tax_amount>
+  <total_amount>16791.16</total_amount>
+  <lines>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>15.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6300.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>8.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>800.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>45.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18900.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>25.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>200.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>93.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1906.5</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>78.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>14820.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>99.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>9900.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>31.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>40269.0</sub_total>
+    </line>
+  </lines>
+</document>

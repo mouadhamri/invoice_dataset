@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA01/2015/032414</invoice_number>
+  <po_number>BC05299</po_number>
+  <invoice_date>20150130</invoice_date>
+  <invoice_date_due>20150430</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>87300.0</total_untaxed>
+  <tax_amount>17271.5</tax_amount>
+  <total_amount>17271.5</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1300.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>86000.0</sub_total>
+    </line>
+  </lines>
+</document>

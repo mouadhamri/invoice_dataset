@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA07/2015/040099</invoice_number>
+  <po_number>BC03325</po_number>
+  <invoice_date>20150702</invoice_date>
+  <invoice_date_due>20150831</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>312424.0</total_untaxed>
+  <tax_amount>38142.0</tax_amount>
+  <total_amount>38142.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>69.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>34500.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>43.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1505.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>94.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>159800.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>30.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>15000.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>10800.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>72.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>720.0</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>18.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>459.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>78.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>11700.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>60.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>77940.0</sub_total>
+    </line>
+  </lines>
+</document>

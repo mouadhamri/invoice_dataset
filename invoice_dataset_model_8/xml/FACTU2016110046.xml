@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA11/2016/096060</invoice_number>
+  <po_number>BC06057</po_number>
+  <invoice_date>20161104</invoice_date>
+  <invoice_date_due>20161119</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>78700.0</total_untaxed>
+  <tax_amount>5497.4</tax_amount>
+  <total_amount>5497.4</total_amount>
+  <lines>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18800.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>26.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>260.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>2.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1200.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>30.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>26280.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>16.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>32160.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA07/2019/074491</invoice_number>
+  <po_number>BC09942</po_number>
+  <invoice_date>20190704</invoice_date>
+  <invoice_date_due>20190818</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>127434.0</total_untaxed>
+  <tax_amount>17192.48</tax_amount>
+  <total_amount>17192.48</total_amount>
+  <lines>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>77.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18095.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>46500.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>10363.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>44676.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>26.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>7800.0</sub_total>
+    </line>
+  </lines>
+</document>

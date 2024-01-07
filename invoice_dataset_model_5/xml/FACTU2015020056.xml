@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA02/2015/036224</invoice_number>
+  <po_number>BC02143</po_number>
+  <invoice_date>20150205</invoice_date>
+  <invoice_date_due>20150406</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>349753.5</total_untaxed>
+  <tax_amount>69625.35</tax_amount>
+  <total_amount>69625.35</total_amount>
+  <lines>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>77.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>346500.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>27.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>3253.5</sub_total>
+    </line>
+  </lines>
+</document>

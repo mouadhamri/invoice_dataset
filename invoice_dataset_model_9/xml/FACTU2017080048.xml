@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA08/2017/087520</invoice_number>
+  <po_number>BC03271</po_number>
+  <invoice_date>20170801</invoice_date>
+  <invoice_date_due>20170915</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>120022.0</total_untaxed>
+  <tax_amount>21452.2</tax_amount>
+  <total_amount>21452.2</total_amount>
+  <lines>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>84.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>2142.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>37.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>10619.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>103920.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>59.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3245.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>12.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>96.0</sub_total>
+    </line>
+  </lines>
+</document>

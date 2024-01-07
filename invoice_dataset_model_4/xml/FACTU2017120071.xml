@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA12/2017/031669</invoice_number>
+  <po_number>BC09103</po_number>
+  <invoice_date>20171223</invoice_date>
+  <invoice_date_due>20180206</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>92890.0</total_untaxed>
+  <tax_amount>12548.0</tax_amount>
+  <total_amount>12548.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>67.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>33500.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>15.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>30150.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>28800.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>8.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>440.0</sub_total>
+    </line>
+  </lines>
+</document>

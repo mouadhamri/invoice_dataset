@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA11/2018/000678</invoice_number>
+  <po_number>BC03361</po_number>
+  <invoice_date>20181108</invoice_date>
+  <invoice_date_due>20181108</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>493857.0</total_untaxed>
+  <tax_amount>89493.0</tax_amount>
+  <total_amount>89493.0</total_amount>
+  <lines>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>13776.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>40.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>320.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>4.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1600.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>50.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>43800.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>40.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>32000.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>3.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>861.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>70.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>28000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>373500.0</sub_total>
+    </line>
+  </lines>
+</document>

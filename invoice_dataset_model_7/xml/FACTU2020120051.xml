@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA12/2020/044717</invoice_number>
+  <po_number>BC03878</po_number>
+  <invoice_date>20201211</invoice_date>
+  <invoice_date_due>20201226</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>64676.0</total_untaxed>
+  <tax_amount>12067.6</tax_amount>
+  <total_amount>12067.6</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>72.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>8676.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>56.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>56000.0</sub_total>
+    </line>
+  </lines>
+</document>

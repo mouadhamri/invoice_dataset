@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA07/2015/069481</invoice_number>
+  <po_number>BC00224</po_number>
+  <invoice_date>20150704</invoice_date>
+  <invoice_date_due>20150719</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>6000.0</total_untaxed>
+  <tax_amount>1200.0</tax_amount>
+  <total_amount>1200.0</total_amount>
+  <lines>
+    <line>
+      <description>Hôtel</description>
+      <quantity>15.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6000.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA04/2016/078032</invoice_number>
+  <po_number>BC09288</po_number>
+  <invoice_date>20160411</invoice_date>
+  <invoice_date_due>20160511</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>56540.0</total_untaxed>
+  <tax_amount>629.0</tax_amount>
+  <total_amount>629.0</total_amount>
+  <lines>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>26130.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>95.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>27265.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>37.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3145.0</sub_total>
+    </line>
+  </lines>
+</document>

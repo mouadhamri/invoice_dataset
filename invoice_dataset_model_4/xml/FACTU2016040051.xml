@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA04/2016/090838</invoice_number>
+  <po_number>BC02406</po_number>
+  <invoice_date>20160423</invoice_date>
+  <invoice_date_due>20160423</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>56000.0</total_untaxed>
+  <tax_amount>8625.5</tax_amount>
+  <total_amount>8625.5</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>61.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>6100.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>73.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>36500.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>35.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>3500.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>33.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>9900.0</sub_total>
+    </line>
+  </lines>
+</document>

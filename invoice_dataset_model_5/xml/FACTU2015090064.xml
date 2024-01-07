@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA09/2015/014977</invoice_number>
+  <po_number>BC01837</po_number>
+  <invoice_date>20150919</invoice_date>
+  <invoice_date_due>20151004</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>77085.0</total_untaxed>
+  <tax_amount>4397.0</tax_amount>
+  <total_amount>4397.0</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>12.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1200.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>44.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>74800.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>31.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1085.0</sub_total>
+    </line>
+  </lines>
+</document>

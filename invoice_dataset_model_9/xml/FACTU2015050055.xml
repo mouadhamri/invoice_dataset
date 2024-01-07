@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA05/2015/013851</invoice_number>
+  <po_number>BC05924</po_number>
+  <invoice_date>20150530</invoice_date>
+  <invoice_date_due>20150729</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>345695.0</total_untaxed>
+  <tax_amount>68079.0</tax_amount>
+  <total_amount>68079.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>87.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7395.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>53.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>5300.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>333000.0</sub_total>
+    </line>
+  </lines>
+</document>

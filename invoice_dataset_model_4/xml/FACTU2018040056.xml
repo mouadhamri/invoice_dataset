@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA04/2018/006376</invoice_number>
+  <po_number>BC06450</po_number>
+  <invoice_date>20180414</invoice_date>
+  <invoice_date_due>20180529</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>351110.0</total_untaxed>
+  <tax_amount>12623.0</tax_amount>
+  <total_amount>12623.0</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>82.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>139400.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>59.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>24780.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>186930.0</sub_total>
+    </line>
+  </lines>
+</document>

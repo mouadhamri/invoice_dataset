@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA07/2019/059413</invoice_number>
+  <po_number>BC01400</po_number>
+  <invoice_date>20190727</invoice_date>
+  <invoice_date_due>20190826</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>41460.0</total_untaxed>
+  <tax_amount>8292.0</tax_amount>
+  <total_amount>8292.0</total_amount>
+  <lines>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>64.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12160.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>31.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>24800.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>30.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4500.0</sub_total>
+    </line>
+  </lines>
+</document>

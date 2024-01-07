@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA03/2015/003748</invoice_number>
+  <po_number>BC07057</po_number>
+  <invoice_date>20150317</invoice_date>
+  <invoice_date_due>20150516</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>197600.0</total_untaxed>
+  <tax_amount>21028.0</tax_amount>
+  <total_amount>21028.0</total_amount>
+  <lines>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>46.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>92460.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>96126.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1014.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>10.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8000.0</sub_total>
+    </line>
+  </lines>
+</document>

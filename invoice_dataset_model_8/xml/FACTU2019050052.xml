@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA05/2019/005678</invoice_number>
+  <po_number>BC00529</po_number>
+  <invoice_date>20190514</invoice_date>
+  <invoice_date_due>20190812</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>2125.0</total_untaxed>
+  <tax_amount>425.0</tax_amount>
+  <total_amount>425.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>25.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2125.0</sub_total>
+    </line>
+  </lines>
+</document>

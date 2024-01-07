@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA12/2015/078667</invoice_number>
+  <po_number>BC07926</po_number>
+  <invoice_date>20151213</invoice_date>
+  <invoice_date_due>20160127</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>22380.0</total_untaxed>
+  <tax_amount>4476.0</tax_amount>
+  <total_amount>4476.0</total_amount>
+  <lines>
+    <line>
+      <description>Hôtel</description>
+      <quantity>50.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>20000.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>68.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2380.0</sub_total>
+    </line>
+  </lines>
+</document>

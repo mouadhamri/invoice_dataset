@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA12/2016/019233</invoice_number>
+  <po_number>BC05347</po_number>
+  <invoice_date>20161223</invoice_date>
+  <invoice_date_due>20170323</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>3800.0</total_untaxed>
+  <tax_amount>209.0</tax_amount>
+  <total_amount>209.0</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>38.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>3800.0</sub_total>
+    </line>
+  </lines>
+</document>

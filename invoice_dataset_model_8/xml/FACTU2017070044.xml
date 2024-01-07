@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA07/2017/026123</invoice_number>
+  <po_number>BC05284</po_number>
+  <invoice_date>20170707</invoice_date>
+  <invoice_date_due>20171005</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>49500.0</total_untaxed>
+  <tax_amount>9900.0</tax_amount>
+  <total_amount>9900.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>99.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>49500.0</sub_total>
+    </line>
+  </lines>
+</document>

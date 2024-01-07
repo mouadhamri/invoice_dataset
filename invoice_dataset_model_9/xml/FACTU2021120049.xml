@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA12/2021/082347</invoice_number>
+  <po_number>BC05475</po_number>
+  <invoice_date>20211204</invoice_date>
+  <invoice_date_due>20220202</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>40272.0</total_untaxed>
+  <tax_amount>7446.92</tax_amount>
+  <total_amount>7446.92</total_amount>
+  <lines>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>48.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>984.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>16.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>1928.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>37.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18500.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>68.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1360.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>35.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>17500.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA08/2018/047013</invoice_number>
+  <po_number>BC01258</po_number>
+  <invoice_date>20180824</invoice_date>
+  <invoice_date_due>20180923</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>3344.0</total_untaxed>
+  <tax_amount>128.8</tax_amount>
+  <total_amount>128.8</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir</description>
+      <quantity>27.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>2700.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>46.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>644.0</sub_total>
+    </line>
+  </lines>
+</document>

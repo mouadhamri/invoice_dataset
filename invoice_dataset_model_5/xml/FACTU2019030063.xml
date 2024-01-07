@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA03/2019/076133</invoice_number>
+  <po_number>BC03886</po_number>
+  <invoice_date>20190330</invoice_date>
+  <invoice_date_due>20190514</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>134948.0</total_untaxed>
+  <tax_amount>4683.6</tax_amount>
+  <total_amount>4683.6</total_amount>
+  <lines>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>53.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>106530.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>22.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>770.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>50.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>5000.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>31.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>248.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>56.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>22400.0</sub_total>
+    </line>
+  </lines>
+</document>

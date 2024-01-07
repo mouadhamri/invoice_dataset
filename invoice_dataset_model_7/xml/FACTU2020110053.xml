@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA11/2020/064411</invoice_number>
+  <po_number>BC02043</po_number>
+  <invoice_date>20201126</invoice_date>
+  <invoice_date_due>20201226</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>13138.5</total_untaxed>
+  <tax_amount>2592.0</tax_amount>
+  <total_amount>2592.0</total_amount>
+  <lines>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>7.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>178.5</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>15.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7500.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>70.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5460.0</sub_total>
+    </line>
+  </lines>
+</document>

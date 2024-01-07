@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA05/2019/077010</invoice_number>
+  <po_number>BC00535</po_number>
+  <invoice_date>20190529</invoice_date>
+  <invoice_date_due>20190713</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>37770.0</total_untaxed>
+  <tax_amount>3872.0</tax_amount>
+  <total_amount>3872.0</total_amount>
+  <lines>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>49.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>9310.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>67.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>20100.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>61.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>6100.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>260.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>20.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>2000.0</sub_total>
+    </line>
+  </lines>
+</document>

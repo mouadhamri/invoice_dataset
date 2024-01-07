@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA11/2018/013875</invoice_number>
+  <po_number>BC06010</po_number>
+  <invoice_date>20181111</invoice_date>
+  <invoice_date_due>20181211</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>197669.0</total_untaxed>
+  <tax_amount>32673.8</tax_amount>
+  <total_amount>32673.8</total_amount>
+  <lines>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>22200.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>35.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>35000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3978.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>87.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7395.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>14.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18186.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>91.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>910.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>14.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1400.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>18.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>30600.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>78.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>78000.0</sub_total>
+    </line>
+  </lines>
+</document>

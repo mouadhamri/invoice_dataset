@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA04/2020/037385</invoice_number>
+  <po_number>BC07532</po_number>
+  <invoice_date>20200401</invoice_date>
+  <invoice_date_due>20200416</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>145323.0</total_untaxed>
+  <tax_amount>29064.6</tax_amount>
+  <total_amount>29064.6</total_amount>
+  <lines>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>5.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>70.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>32.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2720.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>87.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>16530.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>126003.0</sub_total>
+    </line>
+  </lines>
+</document>

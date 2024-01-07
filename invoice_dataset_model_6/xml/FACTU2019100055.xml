@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA10/2019/072556</invoice_number>
+  <po_number>BC02403</po_number>
+  <invoice_date>20191029</invoice_date>
+  <invoice_date_due>20191113</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>25060.0</total_untaxed>
+  <tax_amount>4814.0</tax_amount>
+  <total_amount>4814.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>11.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>1980.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>48.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4080.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>14.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>11200.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>100.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7800.0</sub_total>
+    </line>
+  </lines>
+</document>

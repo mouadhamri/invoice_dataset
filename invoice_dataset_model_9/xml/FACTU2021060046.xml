@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA06/2021/090036</invoice_number>
+  <po_number>BC08468</po_number>
+  <invoice_date>20210601</invoice_date>
+  <invoice_date_due>20210701</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>60425.0</total_untaxed>
+  <tax_amount>10707.5</tax_amount>
+  <total_amount>10707.5</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>45.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3510.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>39000.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>99.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8415.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>95.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>9500.0</sub_total>
+    </line>
+  </lines>
+</document>

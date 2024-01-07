@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA12/2017/041518</invoice_number>
+  <po_number>BC09421</po_number>
+  <invoice_date>20171214</invoice_date>
+  <invoice_date_due>20180113</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>5000.0</total_untaxed>
+  <tax_amount>1000.0</tax_amount>
+  <total_amount>1000.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>2.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5000.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA03/2018/015061</invoice_number>
+  <po_number>BC02305</po_number>
+  <invoice_date>20180302</invoice_date>
+  <invoice_date_due>20180416</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>93528.0</total_untaxed>
+  <tax_amount>18705.6</tax_amount>
+  <total_amount>18705.6</total_amount>
+  <lines>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>80000.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>2.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>28.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>27.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>13500.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA11/2016/088992</invoice_number>
+  <po_number>BC05406</po_number>
+  <invoice_date>20161122</invoice_date>
+  <invoice_date_due>20170220</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>51155.0</total_untaxed>
+  <tax_amount>10231.0</tax_amount>
+  <total_amount>10231.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>21.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1155.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>100.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>50000.0</sub_total>
+    </line>
+  </lines>
+</document>

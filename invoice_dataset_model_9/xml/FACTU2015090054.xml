@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA09/2015/011985</invoice_number>
+  <po_number>BC09122</po_number>
+  <invoice_date>20150911</invoice_date>
+  <invoice_date_due>20150926</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>26885.0</total_untaxed>
+  <tax_amount>2561.0</tax_amount>
+  <total_amount>2561.0</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir</description>
+      <quantity>11.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>1100.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>23.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>805.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>49.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>980.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>45.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>13500.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>35.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>10500.0</sub_total>
+    </line>
+  </lines>
+</document>

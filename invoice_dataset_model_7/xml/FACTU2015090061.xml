@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA09/2015/076010</invoice_number>
+  <po_number>BC09036</po_number>
+  <invoice_date>20150928</invoice_date>
+  <invoice_date_due>20151013</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>9184.0</total_untaxed>
+  <tax_amount>0.0</tax_amount>
+  <total_amount>0.0</total_amount>
+  <lines>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>32.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>9184.0</sub_total>
+    </line>
+  </lines>
+</document>

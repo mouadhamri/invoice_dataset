@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA10/2015/086709</invoice_number>
+  <po_number>BC04114</po_number>
+  <invoice_date>20151012</invoice_date>
+  <invoice_date_due>20151111</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>472335.0</total_untaxed>
+  <tax_amount>88302.4</tax_amount>
+  <total_amount>88302.4</total_amount>
+  <lines>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>12060.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>64.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>512.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>98.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>441000.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>47.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>4700.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>49.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>14063.0</sub_total>
+    </line>
+  </lines>
+</document>

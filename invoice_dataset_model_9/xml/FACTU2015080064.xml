@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA08/2015/029012</invoice_number>
+  <po_number>BC00757</po_number>
+  <invoice_date>20150804</invoice_date>
+  <invoice_date_due>20150804</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>265848.0</total_untaxed>
+  <tax_amount>32118.85</tax_amount>
+  <total_amount>32118.85</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>71.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>42600.0</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>67.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>1708.5</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>44.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>1122.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>28.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>224.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>54.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12690.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>31.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>13020.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>43.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>5181.5</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>81.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>137700.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>43.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>602.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>51000.0</sub_total>
+    </line>
+  </lines>
+</document>

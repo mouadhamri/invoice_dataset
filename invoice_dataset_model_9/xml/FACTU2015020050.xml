@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA02/2015/055235</invoice_number>
+  <po_number>BC03155</po_number>
+  <invoice_date>20150220</invoice_date>
+  <invoice_date_due>20150220</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>2886.0</total_untaxed>
+  <tax_amount>577.2</tax_amount>
+  <total_amount>577.2</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>37.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2886.0</sub_total>
+    </line>
+  </lines>
+</document>

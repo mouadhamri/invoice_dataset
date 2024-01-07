@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA09/2020/030060</invoice_number>
+  <po_number>BC08430</po_number>
+  <invoice_date>2020-09-05</invoice_date>
+  <invoice_date_due>2020-11-04</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>13600.0</total_untaxed>
+  <tax_amount>2720.0</tax_amount>
+  <total_amount>2720.0</total_amount>
+  <lines>
+    <line>
+      <description>Hôtel</description>
+      <quantity>34.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>13600.0</sub_total>
+    </line>
+  </lines>
+</document>

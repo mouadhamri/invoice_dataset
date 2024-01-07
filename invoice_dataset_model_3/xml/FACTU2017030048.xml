@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA03/2017/036452</invoice_number>
+  <po_number>BC01758</po_number>
+  <invoice_date>2017-03-28</invoice_date>
+  <invoice_date_due>2017-05-12</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>29202.0</total_untaxed>
+  <tax_amount>3200.0</tax_amount>
+  <total_amount>3200.0</total_amount>
+  <lines>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>46.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>13202.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>20.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>16000.0</sub_total>
+    </line>
+  </lines>
+</document>

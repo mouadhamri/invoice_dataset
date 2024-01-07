@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA10/2017/036496</invoice_number>
+  <po_number>BC08547</po_number>
+  <invoice_date>20171004</invoice_date>
+  <invoice_date_due>20180102</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>30535.0</total_untaxed>
+  <tax_amount>2709.0</tax_amount>
+  <total_amount>2709.0</total_amount>
+  <lines>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>75.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>22500.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>20.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>5740.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>27.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2295.0</sub_total>
+    </line>
+  </lines>
+</document>

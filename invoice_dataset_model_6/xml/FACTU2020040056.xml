@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA04/2020/071648</invoice_number>
+  <po_number>BC08047</po_number>
+  <invoice_date>20200429</invoice_date>
+  <invoice_date_due>20200429</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>104220.0</total_untaxed>
+  <tax_amount>20844.0</tax_amount>
+  <total_amount>20844.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>62.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3410.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>41.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>16400.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>46500.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>46.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3910.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>34.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>34000.0</sub_total>
+    </line>
+  </lines>
+</document>

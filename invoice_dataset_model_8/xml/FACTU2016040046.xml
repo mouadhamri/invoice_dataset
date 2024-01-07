@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA04/2016/005388</invoice_number>
+  <po_number>BC07458</po_number>
+  <invoice_date>20160416</invoice_date>
+  <invoice_date_due>20160715</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>4785.0</total_untaxed>
+  <tax_amount>957.0</tax_amount>
+  <total_amount>957.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>87.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4785.0</sub_total>
+    </line>
+  </lines>
+</document>

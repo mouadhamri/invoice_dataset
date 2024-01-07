@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA08/2018/045470</invoice_number>
+  <po_number>BC08592</po_number>
+  <invoice_date>20180801</invoice_date>
+  <invoice_date_due>20181030</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>93535.0</total_untaxed>
+  <tax_amount>6470.0</tax_amount>
+  <total_amount>6470.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>70.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>12600.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>42.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>71400.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>210.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>59.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1180.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>73.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6205.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1940.0</sub_total>
+    </line>
+  </lines>
+</document>

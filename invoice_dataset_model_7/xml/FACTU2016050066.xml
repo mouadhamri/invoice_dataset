@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA05/2016/079791</invoice_number>
+  <po_number>BC04048</po_number>
+  <invoice_date>20160518</invoice_date>
+  <invoice_date_due>20160518</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>342360.0</total_untaxed>
+  <tax_amount>68472.0</tax_amount>
+  <total_amount>68472.0</total_amount>
+  <lines>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>73.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>328500.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>33.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>13860.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA09/2019/078270</invoice_number>
+  <po_number>BC07990</po_number>
+  <invoice_date>20190905</invoice_date>
+  <invoice_date_due>20190920</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>10610.0</total_untaxed>
+  <tax_amount>715.5</tax_amount>
+  <total_amount>715.5</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>9700.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>910.0</sub_total>
+    </line>
+  </lines>
+</document>

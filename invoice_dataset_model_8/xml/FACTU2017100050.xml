@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA10/2017/078273</invoice_number>
+  <po_number>BC01727</po_number>
+  <invoice_date>20171019</invoice_date>
+  <invoice_date_due>20180117</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>393482.0</total_untaxed>
+  <tax_amount>77448.2</tax_amount>
+  <total_amount>77448.2</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>4.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>482.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>387000.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>60.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>6000.0</sub_total>
+    </line>
+  </lines>
+</document>

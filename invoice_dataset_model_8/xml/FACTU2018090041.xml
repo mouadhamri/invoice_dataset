@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA09/2018/013728</invoice_number>
+  <po_number>BC03180</po_number>
+  <invoice_date>20180925</invoice_date>
+  <invoice_date_due>20181010</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>688.0</total_untaxed>
+  <tax_amount>137.6</tax_amount>
+  <total_amount>137.6</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>688.0</sub_total>
+    </line>
+  </lines>
+</document>

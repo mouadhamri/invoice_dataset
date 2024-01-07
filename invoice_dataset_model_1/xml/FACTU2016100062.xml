@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA10/2016/014320</invoice_number>
+  <po_number>BC00009</po_number>
+  <invoice_date>2016-10-25</invoice_date>
+  <invoice_date_due>2016-12-09</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>7920.0</total_untaxed>
+  <tax_amount>792.0</tax_amount>
+  <total_amount>792.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>44.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>7920.0</sub_total>
+    </line>
+  </lines>
+</document>

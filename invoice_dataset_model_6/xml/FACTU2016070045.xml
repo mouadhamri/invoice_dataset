@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA07/2016/029892</invoice_number>
+  <po_number>BC04780</po_number>
+  <invoice_date>20160729</invoice_date>
+  <invoice_date_due>20160828</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>35297.0</total_untaxed>
+  <tax_amount>1205.0</tax_amount>
+  <total_amount>1205.0</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>100.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>12050.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>81.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>23247.0</sub_total>
+    </line>
+  </lines>
+</document>

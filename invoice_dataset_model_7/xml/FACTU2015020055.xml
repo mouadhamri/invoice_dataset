@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA02/2015/072135</invoice_number>
+  <po_number>BC07055</po_number>
+  <invoice_date>20150209</invoice_date>
+  <invoice_date_due>20150326</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>129695.0</total_untaxed>
+  <tax_amount>18921.8</tax_amount>
+  <total_amount>18921.8</total_amount>
+  <lines>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>60.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2100.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>25.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>20000.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>10.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>8760.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>87.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>43500.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>40.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>4000.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>85.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>24395.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>72.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1440.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>25500.0</sub_total>
+    </line>
+  </lines>
+</document>

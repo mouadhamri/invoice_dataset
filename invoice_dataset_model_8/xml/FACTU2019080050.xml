@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA08/2019/068826</invoice_number>
+  <po_number>BC03749</po_number>
+  <invoice_date>20190817</invoice_date>
+  <invoice_date_due>20191115</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>407010.0</total_untaxed>
+  <tax_amount>80898.0</tax_amount>
+  <total_amount>80898.0</total_amount>
+  <lines>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>88.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>396000.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>3.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3000.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>54.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2970.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>28.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>5040.0</sub_total>
+    </line>
+  </lines>
+</document>

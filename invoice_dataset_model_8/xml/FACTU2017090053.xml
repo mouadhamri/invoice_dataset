@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA09/2017/007175</invoice_number>
+  <po_number>BC06252</po_number>
+  <invoice_date>20170913</invoice_date>
+  <invoice_date_due>20171112</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>240140.0</total_untaxed>
+  <tax_amount>48028.0</tax_amount>
+  <total_amount>48028.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>48.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>7200.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>30.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>38970.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>34.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>34000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>34.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>153000.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>82.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6970.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA11/2016/080643</invoice_number>
+  <po_number>BC09861</po_number>
+  <invoice_date>20161109</invoice_date>
+  <invoice_date_due>20161209</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>71792.5</total_untaxed>
+  <tax_amount>9142.68</tax_amount>
+  <total_amount>9142.68</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>6.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>900.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>9300.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>83.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1701.5</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>52.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>15600.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>77.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>7700.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>46.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>4600.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>25.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>20000.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>2.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>241.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>50.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>11750.0</sub_total>
+    </line>
+  </lines>
+</document>

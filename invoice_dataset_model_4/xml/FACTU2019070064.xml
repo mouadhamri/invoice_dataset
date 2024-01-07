@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA07/2019/006247</invoice_number>
+  <po_number>BC05818</po_number>
+  <invoice_date>20190715</invoice_date>
+  <invoice_date_due>20190715</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>14850.0</total_untaxed>
+  <tax_amount>2970.0</tax_amount>
+  <total_amount>2970.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>99.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>14850.0</sub_total>
+    </line>
+  </lines>
+</document>

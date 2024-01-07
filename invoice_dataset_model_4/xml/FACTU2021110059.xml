@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA11/2021/079417</invoice_number>
+  <po_number>BC07774</po_number>
+  <invoice_date>20211107</invoice_date>
+  <invoice_date_due>20211207</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>333200.0</total_untaxed>
+  <tax_amount>18326.0</tax_amount>
+  <total_amount>18326.0</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>164900.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>99.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>168300.0</sub_total>
+    </line>
+  </lines>
+</document>

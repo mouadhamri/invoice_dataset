@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA11/2020/066190</invoice_number>
+  <po_number>BC07188</po_number>
+  <invoice_date>20201129</invoice_date>
+  <invoice_date_due>20210128</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>4338.0</total_untaxed>
+  <tax_amount>433.8</tax_amount>
+  <total_amount>433.8</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>4338.0</sub_total>
+    </line>
+  </lines>
+</document>

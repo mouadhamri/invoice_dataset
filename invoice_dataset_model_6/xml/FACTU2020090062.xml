@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA09/2020/014195</invoice_number>
+  <po_number>BC00811</po_number>
+  <invoice_date>20200912</invoice_date>
+  <invoice_date_due>20201012</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>200553.0</total_untaxed>
+  <tax_amount>28170.72</tax_amount>
+  <total_amount>28170.72</total_amount>
+  <lines>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>94.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>82344.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>91.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>118209.0</sub_total>
+    </line>
+  </lines>
+</document>

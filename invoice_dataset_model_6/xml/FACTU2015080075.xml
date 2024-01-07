@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA08/2015/034750</invoice_number>
+  <po_number>BC01480</po_number>
+  <invoice_date>20150803</invoice_date>
+  <invoice_date_due>20150803</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>6174.5</total_untaxed>
+  <tax_amount>881.45</tax_amount>
+  <total_amount>881.45</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>29.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>3494.5</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>32.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>320.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>30.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2340.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>1.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>20.0</sub_total>
+    </line>
+  </lines>
+</document>

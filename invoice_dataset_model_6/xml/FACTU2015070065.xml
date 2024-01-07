@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA07/2015/082659</invoice_number>
+  <po_number>BC00697</po_number>
+  <invoice_date>20150727</invoice_date>
+  <invoice_date_due>20151025</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>55727.0</total_untaxed>
+  <tax_amount>10768.4</tax_amount>
+  <total_amount>10768.4</total_amount>
+  <lines>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>8.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8000.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>20.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4700.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>40.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>32000.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>97.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8245.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>182.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>26.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>2600.0</sub_total>
+    </line>
+  </lines>
+</document>

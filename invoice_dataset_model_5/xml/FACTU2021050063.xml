@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA05/2021/069537</invoice_number>
+  <po_number>BC01142</po_number>
+  <invoice_date>20210512</invoice_date>
+  <invoice_date_due>20210626</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>1980.0</total_untaxed>
+  <tax_amount>396.0</tax_amount>
+  <total_amount>396.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1980.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA01/2021/004072</invoice_number>
+  <po_number>BC01326</po_number>
+  <invoice_date>20210102</invoice_date>
+  <invoice_date_due>20210117</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>143940.0</total_untaxed>
+  <tax_amount>8082.0</tax_amount>
+  <total_amount>8082.0</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>84.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>142800.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>6.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1140.0</sub_total>
+    </line>
+  </lines>
+</document>

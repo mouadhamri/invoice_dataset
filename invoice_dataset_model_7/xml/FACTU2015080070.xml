@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA08/2015/031380</invoice_number>
+  <po_number>BC06196</po_number>
+  <invoice_date>20150801</invoice_date>
+  <invoice_date_due>20151030</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>704544.0</total_untaxed>
+  <tax_amount>101698.8</tax_amount>
+  <total_amount>101698.8</total_amount>
+  <lines>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>292500.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>11.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>1100.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>76.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>60800.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>8.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>800.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>91.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>182910.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>17.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>5100.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>111714.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>99.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>17820.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>53.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>31800.0</sub_total>
+    </line>
+  </lines>
+</document>

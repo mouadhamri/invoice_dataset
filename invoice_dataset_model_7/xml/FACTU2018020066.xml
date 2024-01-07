@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA02/2018/061255</invoice_number>
+  <po_number>BC06118</po_number>
+  <invoice_date>20180206</invoice_date>
+  <invoice_date_due>20180407</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>46000.0</total_untaxed>
+  <tax_amount>9200.0</tax_amount>
+  <total_amount>9200.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>92.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>46000.0</sub_total>
+    </line>
+  </lines>
+</document>

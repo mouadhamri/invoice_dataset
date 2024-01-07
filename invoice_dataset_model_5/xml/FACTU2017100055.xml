@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA10/2017/075352</invoice_number>
+  <po_number>BC07157</po_number>
+  <invoice_date>20171021</invoice_date>
+  <invoice_date_due>20171120</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>195200.0</total_untaxed>
+  <tax_amount>15129.5</tax_amount>
+  <total_amount>15129.5</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>24000.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>164900.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>42.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6300.0</sub_total>
+    </line>
+  </lines>
+</document>

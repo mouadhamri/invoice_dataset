@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA05/2021/046616</invoice_number>
+  <po_number>BC06492</po_number>
+  <invoice_date>20210510</invoice_date>
+  <invoice_date_due>20210624</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>924.0</total_untaxed>
+  <tax_amount>184.8</tax_amount>
+  <total_amount>184.8</total_amount>
+  <lines>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>66.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>924.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA01/2021/095315</invoice_number>
+  <po_number>BC07789</po_number>
+  <invoice_date>20210113</invoice_date>
+  <invoice_date_due>20210113</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>102963.0</total_untaxed>
+  <tax_amount>5554.7</tax_amount>
+  <total_amount>5554.7</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>81600.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>89.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>8900.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>5.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>500.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>31.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>8897.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>22.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1870.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>47.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>376.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>640.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>9.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>180.0</sub_total>
+    </line>
+  </lines>
+</document>

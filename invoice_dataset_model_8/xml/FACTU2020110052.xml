@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA11/2020/062127</invoice_number>
+  <po_number>BC00302</po_number>
+  <invoice_date>20201118</invoice_date>
+  <invoice_date_due>20201218</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>29645.0</total_untaxed>
+  <tax_amount>4089.0</tax_amount>
+  <total_amount>4089.0</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir</description>
+      <quantity>92.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>9200.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>42.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>9870.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>45.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10575.0</sub_total>
+    </line>
+  </lines>
+</document>

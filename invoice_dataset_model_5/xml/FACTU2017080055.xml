@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA08/2017/091508</invoice_number>
+  <po_number>BC09264</po_number>
+  <invoice_date>20170813</invoice_date>
+  <invoice_date_due>20170813</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>220270.0</total_untaxed>
+  <tax_amount>6919.0</tax_amount>
+  <total_amount>6919.0</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>125800.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>47.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>94470.0</sub_total>
+    </line>
+  </lines>
+</document>

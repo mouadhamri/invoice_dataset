@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA11/2017/006472</invoice_number>
+  <po_number>BC06279</po_number>
+  <invoice_date>20171107</invoice_date>
+  <invoice_date_due>20180106</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>145619.0</total_untaxed>
+  <tax_amount>18358.0</tax_amount>
+  <total_amount>18358.0</total_amount>
+  <lines>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>58.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>17400.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>28.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>47600.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>51.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>51000.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>37.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>10619.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>38.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>19000.0</sub_total>
+    </line>
+  </lines>
+</document>

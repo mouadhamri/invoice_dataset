@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA11/2020/083317</invoice_number>
+  <po_number>BC04155</po_number>
+  <invoice_date>20201127</invoice_date>
+  <invoice_date_due>20201127</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>112050.0</total_untaxed>
+  <tax_amount>22410.0</tax_amount>
+  <total_amount>22410.0</total_amount>
+  <lines>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>50.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>500.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>81.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>32400.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>67.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>67000.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>81.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>12150.0</sub_total>
+    </line>
+  </lines>
+</document>

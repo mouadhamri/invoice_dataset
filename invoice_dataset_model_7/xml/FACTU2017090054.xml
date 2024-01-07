@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA09/2017/063399</invoice_number>
+  <po_number>BC05645</po_number>
+  <invoice_date>20170902</invoice_date>
+  <invoice_date_due>20171017</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>484557.0</total_untaxed>
+  <tax_amount>96116.1</tax_amount>
+  <total_amount>96116.1</total_amount>
+  <lines>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>66400.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>91.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>409500.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>88.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>704.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>66.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>7953.0</sub_total>
+    </line>
+  </lines>
+</document>

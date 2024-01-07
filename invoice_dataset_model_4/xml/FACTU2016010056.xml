@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA01/2016/042435</invoice_number>
+  <po_number>BC09944</po_number>
+  <invoice_date>20160124</invoice_date>
+  <invoice_date_due>20160324</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>103869.0</total_untaxed>
+  <tax_amount>20773.8</tax_amount>
+  <total_amount>20773.8</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>16.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1248.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>79.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>102621.0</sub_total>
+    </line>
+  </lines>
+</document>

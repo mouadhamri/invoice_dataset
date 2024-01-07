@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA08/2017/050526</invoice_number>
+  <po_number>BC05533</po_number>
+  <invoice_date>20170804</invoice_date>
+  <invoice_date_due>20170918</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>2563.5</total_untaxed>
+  <tax_amount>313.54</tax_amount>
+  <total_amount>313.54</total_amount>
+  <lines>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>67.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1373.5</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>34.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1190.0</sub_total>
+    </line>
+  </lines>
+</document>

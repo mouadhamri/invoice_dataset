@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA01/2022/027069</invoice_number>
+  <po_number>BC08018</po_number>
+  <invoice_date>20220114</invoice_date>
+  <invoice_date_due>20220315</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>5276.0</total_untaxed>
+  <tax_amount>1055.2</tax_amount>
+  <total_amount>1055.2</total_amount>
+  <lines>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>11.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4620.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>82.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>656.0</sub_total>
+    </line>
+  </lines>
+</document>

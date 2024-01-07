@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA09/2015/039806</invoice_number>
+  <po_number>BC09383</po_number>
+  <invoice_date>20150909</invoice_date>
+  <invoice_date_due>20151108</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>28308.0</total_untaxed>
+  <tax_amount>2859.6</tax_amount>
+  <total_amount>2859.6</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>288.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>14.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>2520.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>85.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>25500.0</sub_total>
+    </line>
+  </lines>
+</document>

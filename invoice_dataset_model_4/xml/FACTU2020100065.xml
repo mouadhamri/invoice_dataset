@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA10/2020/056165</invoice_number>
+  <po_number>BC00459</po_number>
+  <invoice_date>20201027</invoice_date>
+  <invoice_date_due>20201027</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>18070.0</total_untaxed>
+  <tax_amount>2178.5</tax_amount>
+  <total_amount>2178.5</total_amount>
+  <lines>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>43.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8170.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>99.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>9900.0</sub_total>
+    </line>
+  </lines>
+</document>

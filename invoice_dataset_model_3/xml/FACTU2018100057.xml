@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA10/2018/017925</invoice_number>
+  <po_number>BC00545</po_number>
+  <invoice_date>2018-10-13</invoice_date>
+  <invoice_date_due>2018-10-13</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>10880.0</total_untaxed>
+  <tax_amount>1888.0</tax_amount>
+  <total_amount>1888.0</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau noire</description>
+      <quantity>16.0</quantity>
+      <uom>Unités</uom>
+      <price>180.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>2880.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>20.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>8000.0</sub_total>
+    </line>
+  </lines>
+</document>

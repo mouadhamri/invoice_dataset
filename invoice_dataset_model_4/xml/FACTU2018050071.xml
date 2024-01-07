@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA05/2018/076529</invoice_number>
+  <po_number>BC06258</po_number>
+  <invoice_date>20180516</invoice_date>
+  <invoice_date_due>20180715</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>329420.0</total_untaxed>
+  <tax_amount>65884.0</tax_amount>
+  <total_amount>65884.0</total_amount>
+  <lines>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>92.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>920.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>73.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>328500.0</sub_total>
+    </line>
+  </lines>
+</document>

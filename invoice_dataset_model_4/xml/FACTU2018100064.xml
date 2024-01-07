@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA10/2018/037964</invoice_number>
+  <po_number>BC01617</po_number>
+  <invoice_date>20181023</invoice_date>
+  <invoice_date_due>20190121</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>193128.0</total_untaxed>
+  <tax_amount>26750.24</tax_amount>
+  <total_amount>26750.24</total_amount>
+  <lines>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>66400.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>42.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>6300.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>67.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>6700.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>78.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>14820.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>26.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>44200.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>27.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>11340.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>92.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>9200.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>18.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>15768.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>23.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>18400.0</sub_total>
+    </line>
+  </lines>
+</document>

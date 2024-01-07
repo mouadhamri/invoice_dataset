@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA07/2018/089820</invoice_number>
+  <po_number>BC04074</po_number>
+  <invoice_date>20180726</invoice_date>
+  <invoice_date_due>20180726</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>49837.5</total_untaxed>
+  <tax_amount>3297.85</tax_amount>
+  <total_amount>3297.85</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>92.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>736.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>23.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>39100.0</sub_total>
+    </line>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>10001.5</sub_total>
+    </line>
+  </lines>
+</document>

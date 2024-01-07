@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA01/2022/025906</invoice_number>
+  <po_number>BC03115</po_number>
+  <invoice_date>20220130</invoice_date>
+  <invoice_date_due>20220430</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>173633.0</total_untaxed>
+  <tax_amount>32059.18</tax_amount>
+  <total_amount>32059.18</total_amount>
+  <lines>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>59.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3245.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>83000.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>6132.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>14.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>12264.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>592.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>18.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>14400.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>10.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>55.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>44000.0</sub_total>
+    </line>
+  </lines>
+</document>

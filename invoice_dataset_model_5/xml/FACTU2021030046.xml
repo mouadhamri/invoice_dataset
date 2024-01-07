@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA03/2021/063499</invoice_number>
+  <po_number>BC05115</po_number>
+  <invoice_date>20210307</invoice_date>
+  <invoice_date_due>20210322</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>11425.0</total_untaxed>
+  <tax_amount>2136.38</tax_amount>
+  <total_amount>2136.38</total_amount>
+  <lines>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10400.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>50.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1025.0</sub_total>
+    </line>
+  </lines>
+</document>

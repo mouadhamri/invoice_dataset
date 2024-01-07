@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA12/2016/009832</invoice_number>
+  <po_number>BC04864</po_number>
+  <invoice_date>20161211</invoice_date>
+  <invoice_date_due>20170311</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>167113.5</total_untaxed>
+  <tax_amount>31445.71</tax_amount>
+  <total_amount>31445.71</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>98.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>49000.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>107817.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>88.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>8800.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>73.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1496.5</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA12/2021/070588</invoice_number>
+  <po_number>BC06652</po_number>
+  <invoice_date>20211227</invoice_date>
+  <invoice_date_due>20220111</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>269841.0</total_untaxed>
+  <tax_amount>29147.4</tax_amount>
+  <total_amount>29147.4</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>96.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>11568.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>13.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2470.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>92.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>736.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>35.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>45465.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>24.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>192.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>79.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>11850.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>86.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>860.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>67.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>33500.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>96.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>163200.0</sub_total>
+    </line>
+  </lines>
+</document>

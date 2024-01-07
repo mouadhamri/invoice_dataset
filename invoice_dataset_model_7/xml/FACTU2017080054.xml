@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA08/2017/029844</invoice_number>
+  <po_number>BC04104</po_number>
+  <invoice_date>20170817</invoice_date>
+  <invoice_date_due>20171016</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>9892.0</total_untaxed>
+  <tax_amount>1766.4</tax_amount>
+  <total_amount>1766.4</total_amount>
+  <lines>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>21.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4935.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>53.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1060.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>3.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3897.0</sub_total>
+    </line>
+  </lines>
+</document>

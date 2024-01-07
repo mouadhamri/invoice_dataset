@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA06/2015/061733</invoice_number>
+  <po_number>BC03929</po_number>
+  <invoice_date>20150616</invoice_date>
+  <invoice_date_due>20150815</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>31140.0</total_untaxed>
+  <tax_amount>3358.5</tax_amount>
+  <total_amount>3358.5</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir</description>
+      <quantity>92.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>9200.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>88.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4840.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>4.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10000.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>71.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>7100.0</sub_total>
+    </line>
+  </lines>
+</document>

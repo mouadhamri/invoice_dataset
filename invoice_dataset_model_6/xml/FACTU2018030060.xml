@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA03/2018/028727</invoice_number>
+  <po_number>BC01343</po_number>
+  <invoice_date>20180331</invoice_date>
+  <invoice_date_due>20180415</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>59185.0</total_untaxed>
+  <tax_amount>11213.5</tax_amount>
+  <total_amount>11213.5</total_amount>
+  <lines>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>57.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>13395.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>89.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>35600.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>43.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>4300.0</sub_total>
+    </line>
+    <line>
+      <description>Service Client (Heures Prépayées)</description>
+      <quantity>31.0</quantity>
+      <uom>Heures</uom>
+      <price>190.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5890.0</sub_total>
+    </line>
+  </lines>
+</document>

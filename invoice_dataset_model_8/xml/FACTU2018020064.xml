@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA02/2018/084362</invoice_number>
+  <po_number>BC06817</po_number>
+  <invoice_date>20180217</invoice_date>
+  <invoice_date_due>20180418</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>728.0</total_untaxed>
+  <tax_amount>145.6</tax_amount>
+  <total_amount>145.6</total_amount>
+  <lines>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>52.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>728.0</sub_total>
+    </line>
+  </lines>
+</document>

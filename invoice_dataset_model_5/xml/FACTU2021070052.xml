@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA07/2021/069990</invoice_number>
+  <po_number>BC01223</po_number>
+  <invoice_date>20210722</invoice_date>
+  <invoice_date_due>20210821</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>300296.0</total_untaxed>
+  <tax_amount>36148.7</tax_amount>
+  <total_amount>36148.7</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>97.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>48500.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>64.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>896.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>70.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>56000.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>95.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>161500.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>30.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>30000.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>2.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>3400.0</sub_total>
+    </line>
+  </lines>
+</document>

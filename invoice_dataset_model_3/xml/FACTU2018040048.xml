@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA04/2018/048440</invoice_number>
+  <po_number>BC05444</po_number>
+  <invoice_date>2018-04-29</invoice_date>
+  <invoice_date_due>2018-06-28</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>29100.0</total_untaxed>
+  <tax_amount>5820.0</tax_amount>
+  <total_amount>5820.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>12.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1800.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>65.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>27300.0</sub_total>
+    </line>
+  </lines>
+</document>

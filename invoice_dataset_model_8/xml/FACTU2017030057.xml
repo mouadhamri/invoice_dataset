@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA03/2017/094328</invoice_number>
+  <po_number>BC07242</po_number>
+  <invoice_date>20170303</invoice_date>
+  <invoice_date_due>20170601</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>27515.0</total_untaxed>
+  <tax_amount>5503.0</tax_amount>
+  <total_amount>5503.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>41.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>24600.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>53.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2915.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA06/2015/066258</invoice_number>
+  <po_number>BC00636</po_number>
+  <invoice_date>20150622</invoice_date>
+  <invoice_date_due>20150622</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>82280.0</total_untaxed>
+  <tax_amount>5200.0</tax_amount>
+  <total_amount>5200.0</total_amount>
+  <lines>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>28.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>56280.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>65.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>26000.0</sub_total>
+    </line>
+  </lines>
+</document>

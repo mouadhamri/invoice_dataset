@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA03/2015/069535</invoice_number>
+  <po_number>BC08576</po_number>
+  <invoice_date>20150328</invoice_date>
+  <invoice_date_due>20150328</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>2500.0</total_untaxed>
+  <tax_amount>500.0</tax_amount>
+  <total_amount>500.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>5.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2500.0</sub_total>
+    </line>
+  </lines>
+</document>

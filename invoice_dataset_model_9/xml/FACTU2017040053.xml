@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA04/2017/056270</invoice_number>
+  <po_number>BC05487</po_number>
+  <invoice_date>20170414</invoice_date>
+  <invoice_date_due>20170414</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>31630.0</total_untaxed>
+  <tax_amount>5485.0</tax_amount>
+  <total_amount>5485.0</total_amount>
+  <lines>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>63.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>630.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>58.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>5800.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>63.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>25200.0</sub_total>
+    </line>
+  </lines>
+</document>

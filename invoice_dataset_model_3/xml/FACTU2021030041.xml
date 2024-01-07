@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA03/2021/081490</invoice_number>
+  <po_number>BC03191</po_number>
+  <invoice_date>2021-03-02</invoice_date>
+  <invoice_date_due>2021-03-02</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>72276.0</total_untaxed>
+  <tax_amount>8516.28</tax_amount>
+  <total_amount>8516.28</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>24.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>480.0</sub_total>
+    </line>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>46.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>40296.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>75.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>31500.0</sub_total>
+    </line>
+  </lines>
+</document>

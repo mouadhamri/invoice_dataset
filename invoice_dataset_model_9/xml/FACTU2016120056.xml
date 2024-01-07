@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA12/2016/084034</invoice_number>
+  <po_number>BC08868</po_number>
+  <invoice_date>20161203</invoice_date>
+  <invoice_date_due>20161203</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>31560.0</total_untaxed>
+  <tax_amount>4963.5</tax_amount>
+  <total_amount>4963.5</total_amount>
+  <lines>
+    <line>
+      <description>Dépôt</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>9300.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>53.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>22260.0</sub_total>
+    </line>
+  </lines>
+</document>

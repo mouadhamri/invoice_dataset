@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA09/2019/024369</invoice_number>
+  <po_number>BC08441</po_number>
+  <invoice_date>2019-09-07</invoice_date>
+  <invoice_date_due>2019-10-22</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>55880.0</total_untaxed>
+  <tax_amount>11176.0</tax_amount>
+  <total_amount>11176.0</total_amount>
+  <lines>
+    <line>
+      <description>Hôtel</description>
+      <quantity>97.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>38800.0</sub_total>
+    </line>
+    <line>
+      <description>Assemblage de Cuisine (Etapes Importantes)</description>
+      <quantity>40.0</quantity>
+      <uom>Unités</uom>
+      <price>420.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>16800.0</sub_total>
+    </line>
+    <line>
+      <description>Poubelle à pédale</description>
+      <quantity>28.0</quantity>
+      <uom>Unités</uom>
+      <price>10.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>280.0</sub_total>
+    </line>
+  </lines>
+</document>

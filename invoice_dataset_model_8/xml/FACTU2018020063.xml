@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA02/2018/087165</invoice_number>
+  <po_number>BC09475</po_number>
+  <invoice_date>20180209</invoice_date>
+  <invoice_date_due>20180510</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>656.0</total_untaxed>
+  <tax_amount>36.08</tax_amount>
+  <total_amount>36.08</total_amount>
+  <lines>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>32.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>656.0</sub_total>
+    </line>
+  </lines>
+</document>

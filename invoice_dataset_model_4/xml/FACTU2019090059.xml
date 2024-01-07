@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA09/2019/099264</invoice_number>
+  <po_number>BC09452</po_number>
+  <invoice_date>20190906</invoice_date>
+  <invoice_date_due>20191006</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>432.0</total_untaxed>
+  <tax_amount>86.4</tax_amount>
+  <total_amount>86.4</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>54.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>432.0</sub_total>
+    </line>
+  </lines>
+</document>

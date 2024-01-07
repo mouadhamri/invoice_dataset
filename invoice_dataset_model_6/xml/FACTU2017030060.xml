@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA03/2017/093265</invoice_number>
+  <po_number>BC07373</po_number>
+  <invoice_date>20170330</invoice_date>
+  <invoice_date_due>20170429</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>5250.0</total_untaxed>
+  <tax_amount>1050.0</tax_amount>
+  <total_amount>1050.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>35.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5250.0</sub_total>
+    </line>
+  </lines>
+</document>

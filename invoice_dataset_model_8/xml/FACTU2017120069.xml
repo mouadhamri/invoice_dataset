@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA12/2017/060815</invoice_number>
+  <po_number>BC02255</po_number>
+  <invoice_date>20171208</invoice_date>
+  <invoice_date_due>20171208</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>92900.0</total_untaxed>
+  <tax_amount>5762.0</tax_amount>
+  <total_amount>5762.0</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>52.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>88400.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>30.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4500.0</sub_total>
+    </line>
+  </lines>
+</document>

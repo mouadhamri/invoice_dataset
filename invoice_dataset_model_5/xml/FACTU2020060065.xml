@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA06/2020/075037</invoice_number>
+  <po_number>BC03192</po_number>
+  <invoice_date>20200605</invoice_date>
+  <invoice_date_due>20200804</invoice_date_due>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>104942.0</total_untaxed>
+  <tax_amount>20988.4</tax_amount>
+  <total_amount>20988.4</total_amount>
+  <lines>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>58.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>75342.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>37.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>29600.0</sub_total>
+    </line>
+  </lines>
+</document>

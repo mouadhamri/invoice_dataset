@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA06/2016/083950</invoice_number>
+  <po_number>BC03199</po_number>
+  <invoice_date>20160613</invoice_date>
+  <invoice_date_due>20160713</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>241.0</total_untaxed>
+  <tax_amount>24.1</tax_amount>
+  <total_amount>24.1</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>2.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>241.0</sub_total>
+    </line>
+  </lines>
+</document>

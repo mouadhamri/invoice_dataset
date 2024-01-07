@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Ready Mat</supplier>
+  <invoice_number>FA05/2021/033063</invoice_number>
+  <po_number>BC03210</po_number>
+  <invoice_date>2021-05-09</invoice_date>
+  <invoice_date_due>2021-06-08</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>7500 W Linne Road  Tracy CA 95304 États Unis</address>
+  <total_untaxed>1715.0</total_untaxed>
+  <tax_amount>343.0</tax_amount>
+  <total_amount>343.0</total_amount>
+  <lines>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>49.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1715.0</sub_total>
+    </line>
+  </lines>
+</document>

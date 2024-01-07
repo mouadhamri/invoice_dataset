@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA01/2019/095967</invoice_number>
+  <po_number>BC00272</po_number>
+  <invoice_date>20190130</invoice_date>
+  <invoice_date_due>20190301</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>2187.0</total_untaxed>
+  <tax_amount>105.99</tax_amount>
+  <total_amount>105.99</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>260.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>94.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1927.0</sub_total>
+    </line>
+  </lines>
+</document>

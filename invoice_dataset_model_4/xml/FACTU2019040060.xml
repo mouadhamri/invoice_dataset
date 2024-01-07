@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA04/2019/023413</invoice_number>
+  <po_number>BC06375</po_number>
+  <invoice_date>20190422</invoice_date>
+  <invoice_date_due>20190522</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>20090.0</total_untaxed>
+  <tax_amount>0.0</tax_amount>
+  <total_amount>0.0</total_amount>
+  <lines>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>70.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>20090.0</sub_total>
+    </line>
+  </lines>
+</document>

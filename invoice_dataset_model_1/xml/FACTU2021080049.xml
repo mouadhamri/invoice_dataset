@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA08/2021/054409</invoice_number>
+  <po_number>BC04107</po_number>
+  <invoice_date>2021-08-01</invoice_date>
+  <invoice_date_due>2021-09-30</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>27581.0</total_untaxed>
+  <tax_amount>0.0</tax_amount>
+  <total_amount>0.0</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir</description>
+      <quantity>95.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>9500.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>63.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>18081.0</sub_total>
+    </line>
+  </lines>
+</document>

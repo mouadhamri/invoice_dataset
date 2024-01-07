@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA08/2020/072600</invoice_number>
+  <po_number>BC04022</po_number>
+  <invoice_date>20200816</invoice_date>
+  <invoice_date_due>20201015</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>83532.0</total_untaxed>
+  <tax_amount>16334.4</tax_amount>
+  <total_amount>16334.4</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1860.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>81.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>32400.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>15.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>9000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>24.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1872.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>96.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>38400.0</sub_total>
+    </line>
+  </lines>
+</document>

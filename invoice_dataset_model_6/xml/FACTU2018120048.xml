@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA12/2018/078532</invoice_number>
+  <po_number>BC03840</po_number>
+  <invoice_date>20181207</invoice_date>
+  <invoice_date_due>20190307</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>29387.0</total_untaxed>
+  <tax_amount>4512.0</tax_amount>
+  <total_amount>4512.0</total_amount>
+  <lines>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>21.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>6027.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>40.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>800.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>96.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>22560.0</sub_total>
+    </line>
+  </lines>
+</document>

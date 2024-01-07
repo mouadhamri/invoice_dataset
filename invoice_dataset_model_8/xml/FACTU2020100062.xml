@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA10/2020/003396</invoice_number>
+  <po_number>BC09919</po_number>
+  <invoice_date>20201021</invoice_date>
+  <invoice_date_due>20201205</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>65890.0</total_untaxed>
+  <tax_amount>13178.0</tax_amount>
+  <total_amount>13178.0</total_amount>
+  <lines>
+    <line>
+      <description>Hôtel</description>
+      <quantity>85.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>34000.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>75.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>30000.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>54.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1890.0</sub_total>
+    </line>
+  </lines>
+</document>

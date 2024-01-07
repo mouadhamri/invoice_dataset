@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA09/2017/029326</invoice_number>
+  <po_number>BC02986</po_number>
+  <invoice_date>20170906</invoice_date>
+  <invoice_date_due>20171105</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>153210.0</total_untaxed>
+  <tax_amount>5718.0</tax_amount>
+  <total_amount>5718.0</total_amount>
+  <lines>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>17390.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>28.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>11200.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>62.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>124620.0</sub_total>
+    </line>
+  </lines>
+</document>

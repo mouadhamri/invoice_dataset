@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA08/2018/085315</invoice_number>
+  <po_number>BC02794</po_number>
+  <invoice_date>20180815</invoice_date>
+  <invoice_date_due>20180830</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>216333.0</total_untaxed>
+  <tax_amount>9498.6</tax_amount>
+  <total_amount>9498.6</total_amount>
+  <lines>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>9093.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>38400.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>84.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>168840.0</sub_total>
+    </line>
+  </lines>
+</document>

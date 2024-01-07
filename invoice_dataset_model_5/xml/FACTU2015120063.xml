@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Marc Demo</supplier>
+  <invoice_number>FA12/2015/095206</invoice_number>
+  <po_number>BC06689</po_number>
+  <invoice_date>20151223</invoice_date>
+  <invoice_date_due>20160122</invoice_date_due>
+  <address>3575  Buena Vista Avenue  Eugene COR 97401 États Unis</address>
+  <total_untaxed>65745.0</total_untaxed>
+  <tax_amount>12554.5</tax_amount>
+  <total_amount>12554.5</total_amount>
+  <lines>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>49.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1715.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>41.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>4100.0</sub_total>
+    </line>
+    <line>
+      <description>Grande table de réunion</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>4500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>58500.0</sub_total>
+    </line>
+    <line>
+      <description>Chaise de bureau</description>
+      <quantity>26.0</quantity>
+      <uom>Unités</uom>
+      <price>55.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1430.0</sub_total>
+    </line>
+  </lines>
+</document>

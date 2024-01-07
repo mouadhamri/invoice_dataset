@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA10/2017/034047</invoice_number>
+  <po_number>BC00231</po_number>
+  <invoice_date>20171008</invoice_date>
+  <invoice_date_due>20180106</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>943.0</total_untaxed>
+  <tax_amount>51.87</tax_amount>
+  <total_amount>51.87</total_amount>
+  <lines>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>46.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>943.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA09/2018/066458</invoice_number>
+  <po_number>BC00804</po_number>
+  <invoice_date>2018-09-28</invoice_date>
+  <invoice_date_due>2018-10-28</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>29881.0</total_untaxed>
+  <tax_amount>3829.6</tax_amount>
+  <total_amount>3829.6</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>40.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>4820.0</sub_total>
+    </line>
+    <line>
+      <description>Logiciel de conception de bureau</description>
+      <quantity>70.0</quantity>
+      <uom>Unités</uom>
+      <price>235.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>16450.0</sub_total>
+    </line>
+    <line>
+      <description>Écrans ant-bruit</description>
+      <quantity>29.0</quantity>
+      <uom>Unités</uom>
+      <price>287.0</price>
+      <tax></tax>
+      <sub_total>8323.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>288.0</sub_total>
+    </line>
+  </lines>
+</document>

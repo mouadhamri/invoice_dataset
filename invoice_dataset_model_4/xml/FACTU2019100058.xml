@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA10/2019/041578</invoice_number>
+  <po_number>BC04200</po_number>
+  <invoice_date>20191021</invoice_date>
+  <invoice_date_due>20191120</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>1200.0</total_untaxed>
+  <tax_amount>120.0</tax_amount>
+  <total_amount>120.0</total_amount>
+  <lines>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>4.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>1200.0</sub_total>
+    </line>
+  </lines>
+</document>

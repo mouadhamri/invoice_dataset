@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA11/2015/001051</invoice_number>
+  <po_number>BC03420</po_number>
+  <invoice_date>20151101</invoice_date>
+  <invoice_date_due>20151101</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>1050.0</total_untaxed>
+  <tax_amount>210.0</tax_amount>
+  <total_amount>210.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>7.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>1050.0</sub_total>
+    </line>
+  </lines>
+</document>

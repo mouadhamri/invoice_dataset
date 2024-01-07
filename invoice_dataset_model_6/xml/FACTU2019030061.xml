@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA03/2019/085217</invoice_number>
+  <po_number>BC00171</po_number>
+  <invoice_date>20190306</invoice_date>
+  <invoice_date_due>20190505</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>1320.0</total_untaxed>
+  <tax_amount>0.0</tax_amount>
+  <total_amount>0.0</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>66.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>1320.0</sub_total>
+    </line>
+  </lines>
+</document>

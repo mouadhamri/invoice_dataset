@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA06/2016/052635</invoice_number>
+  <po_number>BC01658</po_number>
+  <invoice_date>20160630</invoice_date>
+  <invoice_date_due>20160814</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>201184.0</total_untaxed>
+  <tax_amount>19777.3</tax_amount>
+  <total_amount>19777.3</total_amount>
+  <lines>
+    <line>
+      <description>Flipover</description>
+      <quantity>83.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>141100.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>84.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>75.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>60000.0</sub_total>
+    </line>
+  </lines>
+</document>

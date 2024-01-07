@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA03/2016/033729</invoice_number>
+  <po_number>BC02273</po_number>
+  <invoice_date>20160330</invoice_date>
+  <invoice_date_due>20160330</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>415521.0</total_untaxed>
+  <tax_amount>62210.14</tax_amount>
+  <total_amount>62210.14</total_amount>
+  <lines>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>34.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>697.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>81.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>137700.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>93.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>93000.0</sub_total>
+    </line>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>34.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>27200.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>21.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>52500.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>76.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>98724.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>57.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>5700.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>YourCompany</supplier>
+  <invoice_number>FA02/2021/021014</invoice_number>
+  <po_number>BC05046</po_number>
+  <invoice_date>20210215</invoice_date>
+  <invoice_date_due>20210516</invoice_date_due>
+  <address>250 Executive Park Blvd  San Francisco CA 94134 France</address>
+  <total_untaxed>77527.5</total_untaxed>
+  <tax_amount>4671.17</tax_amount>
+  <total_amount>4671.17</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2808.0</sub_total>
+    </line>
+    <line>
+      <description>Flipover</description>
+      <quantity>43.0</quantity>
+      <uom>Unités</uom>
+      <price>1700.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>73100.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>79.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>1619.5</sub_total>
+    </line>
+  </lines>
+</document>

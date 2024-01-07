@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA05/2021/029425</invoice_number>
+  <po_number>BC05653</po_number>
+  <invoice_date>20210505</invoice_date>
+  <invoice_date_due>20210604</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>384.0</total_untaxed>
+  <tax_amount>76.8</tax_amount>
+  <total_amount>76.8</total_amount>
+  <lines>
+    <line>
+      <description>Restaurant</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>384.0</sub_total>
+    </line>
+  </lines>
+</document>

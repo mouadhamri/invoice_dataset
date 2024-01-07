@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>The Jackson Group</supplier>
+  <invoice_number>FA10/2017/087580</invoice_number>
+  <po_number>BC02798</po_number>
+  <invoice_date>20171031</invoice_date>
+  <invoice_date_due>20171115</invoice_date_due>
+  <address>1611 Peony Dr  Tracy CA 95377 États Unis</address>
+  <total_untaxed>276352.5</total_untaxed>
+  <tax_amount>41301.25</tax_amount>
+  <total_amount>41301.25</total_amount>
+  <lines>
+    <line>
+      <description>Armoire avec portes</description>
+      <quantity>25.0</quantity>
+      <uom>Unités</uom>
+      <price>120.5</price>
+      <tax>TVA 10%</tax>
+      <sub_total>3012.5</sub_total>
+    </line>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>82.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>205000.0</sub_total>
+    </line>
+    <line>
+      <description>Support de bureau avec écran</description>
+      <quantity>34.0</quantity>
+      <uom>Unités</uom>
+      <price>2010.0</price>
+      <tax></tax>
+      <sub_total>68340.0</sub_total>
+    </line>
+  </lines>
+</document>

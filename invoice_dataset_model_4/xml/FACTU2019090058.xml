@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA09/2019/008289</invoice_number>
+  <po_number>BC02760</po_number>
+  <invoice_date>20190910</invoice_date>
+  <invoice_date_due>20191010</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>61.5</total_untaxed>
+  <tax_amount>3.38</tax_amount>
+  <total_amount>3.38</total_amount>
+  <lines>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>3.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>61.5</sub_total>
+    </line>
+  </lines>
+</document>

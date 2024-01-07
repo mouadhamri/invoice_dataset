@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA02/2018/024004</invoice_number>
+  <po_number>BC08734</po_number>
+  <invoice_date>20180205</invoice_date>
+  <invoice_date_due>20180506</invoice_date_due>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>97500.0</total_untaxed>
+  <tax_amount>19500.0</tax_amount>
+  <total_amount>19500.0</total_amount>
+  <lines>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>39.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>97500.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Gemini Furniture</supplier>
+  <invoice_number>FA11/2018/035437</invoice_number>
+  <po_number>BC01054</po_number>
+  <invoice_date>20181122</invoice_date>
+  <invoice_date_due>20181222</invoice_date_due>
+  <address>317 Fairchild Dr  Fairfield CA 94535 États Unis</address>
+  <total_untaxed>50315.0</total_untaxed>
+  <tax_amount>6674.0</tax_amount>
+  <total_amount>6674.0</total_amount>
+  <lines>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>77.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2695.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>36.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>3600.0</sub_total>
+    </line>
+    <line>
+      <description>Virtual Home Staging</description>
+      <quantity>40.0</quantity>
+      <uom>Heures</uom>
+      <price>25.5</price>
+      <tax></tax>
+      <sub_total>1020.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>90.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>9000.0</sub_total>
+    </line>
+    <line>
+      <description>Dépôt</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>8000.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau personnalisable</description>
+      <quantity>52.0</quantity>
+      <uom>Unités</uom>
+      <price>500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>26000.0</sub_total>
+    </line>
+  </lines>
+</document>

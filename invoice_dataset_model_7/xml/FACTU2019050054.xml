@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA05/2019/099239</invoice_number>
+  <po_number>BC05666</po_number>
+  <invoice_date>20190515</invoice_date>
+  <invoice_date_due>20190530</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>5226.0</total_untaxed>
+  <tax_amount>1045.2</tax_amount>
+  <total_amount>1045.2</total_amount>
+  <lines>
+    <line>
+      <description>Bureau d'angle avec siège à gauche</description>
+      <quantity>67.0</quantity>
+      <uom>Unités</uom>
+      <price>78.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>5226.0</sub_total>
+    </line>
+  </lines>
+</document>

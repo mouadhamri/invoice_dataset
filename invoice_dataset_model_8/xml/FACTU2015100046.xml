@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA10/2015/073096</invoice_number>
+  <po_number>BC04884</po_number>
+  <invoice_date>20151030</invoice_date>
+  <invoice_date_due>20151030</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>6858.5</total_untaxed>
+  <tax_amount>1009.17</tax_amount>
+  <total_amount>1009.17</total_amount>
+  <lines>
+    <line>
+      <description>Tiroir noir</description>
+      <quantity>48.0</quantity>
+      <uom>Unités</uom>
+      <price>20.0</price>
+      <tax></tax>
+      <sub_total>960.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Principal (Facturation sur Feuilles de Temps)</description>
+      <quantity>33.0</quantity>
+      <uom>Heures</uom>
+      <price>150.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4950.0</sub_total>
+    </line>
+    <line>
+      <description>Design d'intérieur virtuel</description>
+      <quantity>17.0</quantity>
+      <uom>Heures</uom>
+      <price>20.5</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>348.5</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>6.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>600.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Wood Corner</supplier>
+  <invoice_number>FA02/2017/029134</invoice_number>
+  <po_number>BC09102</po_number>
+  <invoice_date>20170225</invoice_date>
+  <invoice_date_due>20170312</invoice_date_due>
+  <address>1839 Arbor Way  Turlock CA 95380 États Unis</address>
+  <total_untaxed>595.0</total_untaxed>
+  <tax_amount>119.0</tax_amount>
+  <total_amount>119.0</total_amount>
+  <lines>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>7.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>595.0</sub_total>
+    </line>
+  </lines>
+</document>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Biotech</supplier>
+  <invoice_number>FA08/2018/073093</invoice_number>
+  <po_number>BC06539</po_number>
+  <invoice_date>20180827</invoice_date>
+  <invoice_date_due>20181011</invoice_date_due>
+  <address>215 Vine St  Scranton PA 18503 États Unis</address>
+  <total_untaxed>31775.0</total_untaxed>
+  <tax_amount>5995.0</tax_amount>
+  <total_amount>5995.0</total_amount>
+  <lines>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>21.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>27279.0</sub_total>
+    </line>
+    <line>
+      <description>Boîte de rangement</description>
+      <quantity>64.0</quantity>
+      <uom>Unités</uom>
+      <price>14.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>896.0</sub_total>
+    </line>
+    <line>
+      <description>Combinaison de bureau</description>
+      <quantity>12.0</quantity>
+      <uom>Unités</uom>
+      <price>300.0</price>
+      <tax>TVA 10%</tax>
+      <sub_total>3600.0</sub_total>
+    </line>
+  </lines>
+</document>

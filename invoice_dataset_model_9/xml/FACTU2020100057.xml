@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA10/2020/057035</invoice_number>
+  <po_number>BC09310</po_number>
+  <invoice_date>20201012</invoice_date>
+  <invoice_date_due>20201012</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>135937.0</total_untaxed>
+  <tax_amount>25487.4</tax_amount>
+  <total_amount>25487.4</total_amount>
+  <lines>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>13.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>13000.0</sub_total>
+    </line>
+    <line>
+      <description>Architecte Junior (Facturation sur Feuilles de Temps)</description>
+      <quantity>55.0</quantity>
+      <uom>Heures</uom>
+      <price>85.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>4675.0</sub_total>
+    </line>
+    <line>
+      <description>Lampe de bureau</description>
+      <quantity>80.0</quantity>
+      <uom>Unités</uom>
+      <price>35.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>2800.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>11.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>1100.0</sub_total>
+    </line>
+    <line>
+      <description>Hôtel</description>
+      <quantity>79.0</quantity>
+      <uom>Jours</uom>
+      <price>400.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>31600.0</sub_total>
+    </line>
+    <line>
+      <description>Tiroir</description>
+      <quantity>74.0</quantity>
+      <uom>Unités</uom>
+      <price>100.0</price>
+      <tax></tax>
+      <sub_total>7400.0</sub_total>
+    </line>
+    <line>
+      <description>Canapé trois places</description>
+      <quantity>26.0</quantity>
+      <uom>Unités</uom>
+      <price>1000.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>26000.0</sub_total>
+    </line>
+    <line>
+      <description>Grand bureau</description>
+      <quantity>38.0</quantity>
+      <uom>Unités</uom>
+      <price>1299.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>49362.0</sub_total>
+    </line>
+  </lines>
+</document>

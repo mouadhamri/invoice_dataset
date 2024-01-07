@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Azure Interior</supplier>
+  <invoice_number>FA09/2019/055688</invoice_number>
+  <po_number>BC02995</po_number>
+  <invoice_date>2019-09-24</invoice_date>
+  <invoice_date_due>2019-10-09</invoice_date_due>
+  <currency_id>EUR</currency_id>
+  <address>4557 De Silva St  Fremont CA 94538 États Unis</address>
+  <total_untaxed>13400.0</total_untaxed>
+  <tax_amount>2680.0</tax_amount>
+  <total_amount>2680.0</total_amount>
+  <lines>
+    <line>
+      <description>Grande armoire</description>
+      <quantity>4.0</quantity>
+      <uom>Unités</uom>
+      <price>800.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>3200.0</sub_total>
+    </line>
+    <line>
+      <description>Bureau d'angle assis à droite</description>
+      <quantity>17.0</quantity>
+      <uom>Unités</uom>
+      <price>600.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>10200.0</sub_total>
+    </line>
+  </lines>
+</document>

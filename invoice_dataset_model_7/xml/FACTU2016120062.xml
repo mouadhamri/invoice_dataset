@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Lumber Inc</supplier>
+  <invoice_number>FA12/2016/030224</invoice_number>
+  <po_number>BC09439</po_number>
+  <invoice_date>20161210</invoice_date>
+  <invoice_date_due>20170124</invoice_date_due>
+  <address>1337 N San Joaquin St  Stockton CA 95202 États Unis</address>
+  <total_untaxed>150056.0</total_untaxed>
+  <tax_amount>30011.2</tax_amount>
+  <total_amount>30011.2</total_amount>
+  <lines>
+    <line>
+      <description>Bureau pour quatre personnes</description>
+      <quantity>60.0</quantity>
+      <uom>Unités</uom>
+      <price>2500.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>150000.0</sub_total>
+    </line>
+    <line>
+      <description>Restaurant</description>
+      <quantity>7.0</quantity>
+      <uom>Unités</uom>
+      <price>8.0</price>
+      <tax>TVA 20%</tax>
+      <sub_total>56.0</sub_total>
+    </line>
+  </lines>
+</document>

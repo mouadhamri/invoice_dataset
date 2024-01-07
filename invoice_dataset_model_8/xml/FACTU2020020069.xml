@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+  <supplier>Deco Addict</supplier>
+  <invoice_number>FA02/2020/009993</invoice_number>
+  <po_number>BC01370</po_number>
+  <invoice_date>20200204</invoice_date>
+  <invoice_date_due>20200204</invoice_date_due>
+  <address>77 Santa Barbara Rd  Pleasant Hill CA 94523 États Unis</address>
+  <total_untaxed>54312.0</total_untaxed>
+  <tax_amount>2987.16</tax_amount>
+  <total_amount>2987.16</total_amount>
+  <lines>
+    <line>
+      <description>Espace de travail individuel</description>
+      <quantity>62.0</quantity>
+      <uom>Unités</uom>
+      <price>876.0</price>
+      <tax>TVA 5,5%</tax>
+      <sub_total>54312.0</sub_total>
+    </line>
+  </lines>
+</document>
